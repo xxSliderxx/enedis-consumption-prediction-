@@ -37,15 +37,14 @@ change_font = '<p style="font-family:Courier; color:Blue; font-size: 20px;">In c
 
 def main():
          
-    menu = ["Introduction", "Consumption Analysis",'Prédiction', "Consumption Prediction"]
+    menu = ["Introduction",'Prédiction', "Consumption Prediction"]
 
     choice = st.sidebar.selectbox("MENU", menu)
 
     if choice == "Introduction":
         intro()
 
-    if choice == "Consumption Analysis":
-        ana()
+    
     if choice == "Consumption Prediction":
         
         ML()
