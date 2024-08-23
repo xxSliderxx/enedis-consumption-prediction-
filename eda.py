@@ -271,7 +271,7 @@ def ana():
         gb_plage_hdf['Total énergie soutirée (MWh)'] = gb_plage_hdf['Total énergie soutirée (MWh)']/len(DF['Date'].unique())
         
         fig,axs =plt.subplots(2,1,figsize=(12,12))
-        fig.suptitle("Consumptions per day by power ranges", fontdict=font_title, fontsize = 22)
+        fig.suptitle("Consumptions per day by power ranges", fontdict=font_title)
         ax2 = sns.barplot(data =gb_plage_cvdl,y ='Plage de puissance souscrite',x= 'Total énergie soutirée (MWh)',palette =color,ax =axs[0])
         ax2.set_ylabel('Power ranges')
         ax2.set_title('Profile : Centre-Val de Loire', pad=8, loc='left')
