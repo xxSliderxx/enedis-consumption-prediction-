@@ -265,7 +265,25 @@ def ana():
         'P7: ]18-24] kVA' : sns.color_palette()[9], 'P7: ]18-30] kVA': 'red', 'P7: ]18-36] kVA' : 'black', 'P8: ]24-30] kVA' : 'orange',
         'P9: ]30-36] kVA' : 'pink'}
         
-       
+        gb_plage_cvdl = DF[(DF['Code région']==24) & (DF['Plage de puissance souscrite'] != 'P0: Total <= 36 kVA' )].groupby('Plage de puissance souscrite')['Total énergie soutirée (MWh)'].agg('sum').sort_values(ascending = False).reset_index()
+        gb_plage_hdf = DF[(DF['Code région']==32) & (DF['Plage de puissance souscrite'] != 'P0: Total <= 36 kVA' )].groupby('Plage de puissance souscrite')['Total énergie soutirée (MWh)'].agg('sum').sort_values(ascending = False).reset_index()
+        gb_plage_cvdl['Total énergie soutirée (MWh)'] = gb_plage_cvdl['Total énergie soutirée (MWh)']/len(DF['Date'].unique())
+        gb_plage_hdf['Total énergie soutirée (MWh)'] = gb_plage_hdf['Total énergie soutirée (MWh)']/len(DF['Date'].unique())
+        
+        fig,axs =plt.subplots(2,1,figsize=(12,12))
+        
+        ax2 = sns.barplot(data =gb_plage_cvdl,y ='Plage de puissance souscrite',x= 'Total énergie soutirée (MWh)',palette =color,ax =axs[0])
+        ax2.set_ylabel('Power ranges')
+        ax2.set_title('Profile : Centre-Val de Loire', pad=8, loc='left')
+        ax2.set_xlabel('Total energy (Mwh)')
+
+
+        ax1 = sns.barplot(data =gb_plage_hdf,y ='Plage de puissance souscrite',x= 'Total énergie soutirée (MWh)',palette =color,ax =axs[1])
+        ax1.set_title('Profile : Hauts-de-France', pad=8, loc='left')
+        ax1.set_ylabel('Power ranges')
+        ax1.set_xlabel('Total energy (Mwh)')
+
+        st.pyplot(fig)
 
         
         
