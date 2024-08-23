@@ -51,7 +51,7 @@ def main():
         
     if choice == 'Prédiction':
         ML_explain()
-    if choice == 'pouet":
+    if choice == 'pouet':
         font_title = {'family': 'sans-serif',
                                 'color':  '#114b98',
                                 'weight': 'bold'}
