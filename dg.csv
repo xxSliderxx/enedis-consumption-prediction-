@@ -1,0 +1,1463 @@
+Date,Code région,Season,Période,Day_type,Total énergie soutirée (MWh),Conso_1pt (KWh),Région
+2022-04-01,24,Spring,période 21,Normal Day,30265.679008,415.42960130837787,Centre-Val de Loire
+2022-04-01,32,Spring,période 21,Normal Day,54847.441743,472.5846365742267,Hauts-de-France
+2022-04-02,24,Spring,période 21,Week-end,32306.580289,413.7339831072279,Centre-Val de Loire
+2022-04-02,32,Spring,période 21,Week-end,58278.870062,465.3057835688398,Hauts-de-France
+2022-04-03,24,Spring,période 21,Week-end,32074.36043,408.11983653385084,Centre-Val de Loire
+2022-04-03,32,Spring,période 21,Week-end,57903.329825,463.98285116424313,Hauts-de-France
+2022-04-04,24,Spring,période 21,Normal Day,30445.11287,406.79097419235853,Centre-Val de Loire
+2022-04-04,32,Spring,période 21,Normal Day,55265.436527,460.39244508342506,Hauts-de-France
+2022-04-05,24,Spring,période 21,Normal Day,27201.091772,390.09584668011786,Centre-Val de Loire
+2022-04-05,32,Spring,période 21,Normal Day,49762.678891,445.53958977041566,Hauts-de-France
+2022-04-06,24,Spring,période 21,Normal Day,25592.111457,372.8434505385779,Centre-Val de Loire
+2022-04-06,32,Spring,période 21,Normal Day,47130.099537,427.5689336959639,Hauts-de-France
+2022-04-07,24,Spring,période 21,Normal Day,24289.648419,366.5555526042579,Centre-Val de Loire
+2022-04-07,32,Spring,période 21,Normal Day,44902.86264,420.288648523069,Hauts-de-France
+2022-04-08,24,Spring,période 21,Normal Day,24619.045325,368.2120421716264,Centre-Val de Loire
+2022-04-08,32,Spring,période 21,Normal Day,45619.544553,423.23775800860625,Hauts-de-France
+2022-04-09,24,Spring,période 1,Week-end,25754.610682,361.4217865913598,Centre-Val de Loire
+2022-04-09,32,Spring,période 1,Week-end,47552.590289,411.8532859291306,Hauts-de-France
+2022-04-10,24,Spring,période 1,Week-end,25113.662634,353.3629582768277,Centre-Val de Loire
+2022-04-10,32,Spring,période 1,Week-end,46364.882647,407.5482952836715,Hauts-de-France
+2022-04-11,24,Spring,période 1,School Holidays,22476.943718,339.50128230922365,Centre-Val de Loire
+2022-04-11,32,Spring,période 1,School Holidays,41888.174266,389.15773610837067,Hauts-de-France
+2022-04-12,24,Spring,période 1,School Holidays,20162.565951,325.8933258185748,Centre-Val de Loire
+2022-04-12,32,Spring,période 1,School Holidays,37970.489629,375.077687109698,Hauts-de-France
+2022-04-13,24,Spring,période 1,School Holidays,19578.681689,320.6161586604781,Centre-Val de Loire
+2022-04-13,32,Spring,période 1,School Holidays,37007.283544,369.58155180840316,Hauts-de-France
+2022-04-14,24,Spring,période 1,School Holidays,18293.284455,310.7348493149194,Centre-Val de Loire
+2022-04-14,32,Spring,période 1,School Holidays,34761.946222,360.2506605957792,Hauts-de-France
+2022-04-15,24,Spring,période 1,School Holidays,17268.472009,301.9745486623244,Centre-Val de Loire
+2022-04-15,32,Spring,période 1,School Holidays,33061.440159,351.0571162973153,Hauts-de-France
+2022-04-16,24,Spring,période 1,Week-end,16784.501825,284.5372161318512,Centre-Val de Loire
+2022-04-16,32,Spring,période 1,Week-end,32228.286906,328.9468947263921,Hauts-de-France
+2022-04-17,24,Spring,période 1,Week-end,16566.951817,279.27723343966915,Centre-Val de Loire
+2022-04-17,32,Spring,période 1,Week-end,31736.418478,326.032361636113,Hauts-de-France
+2022-04-18,24,Spring,période 1,National Holidays,16793.780319,286.1087866735878,Centre-Val de Loire
+2022-04-18,32,Spring,période 1,National Holidays,32231.448204,329.3860303009282,Hauts-de-France
+2022-04-19,24,Spring,période 1,School Holidays,17579.061718,305.3770580432304,Centre-Val de Loire
+2022-04-19,32,Spring,période 1,School Holidays,33736.324646,350.6463465957445,Hauts-de-France
+2022-04-20,24,Spring,période 1,School Holidays,18187.423061,309.7989631928649,Centre-Val de Loire
+2022-04-20,32,Spring,période 1,School Holidays,34860.329249,354.232389625719,Hauts-de-France
+2022-04-21,24,Spring,période 1,School Holidays,17955.220422,311.88857591693295,Centre-Val de Loire
+2022-04-21,32,Spring,période 1,School Holidays,34475.540801,355.35981516702753,Hauts-de-France
+2022-04-22,24,Spring,période 1,School Holidays,17418.745873,307.7190358666582,Centre-Val de Loire
+2022-04-22,32,Spring,période 1,School Holidays,33567.523071,350.13207475865147,Hauts-de-France
+2022-04-23,24,Spring,période 1,Week-end,17978.954855,298.31981440192544,Centre-Val de Loire
+2022-04-23,32,Spring,période 1,Week-end,34674.057339,338.2150319802743,Hauts-de-France
+2022-04-24,24,Spring,période 1,Week-end,18389.785953,298.0226293343144,Centre-Val de Loire
+2022-04-24,32,Spring,période 1,Week-end,35436.636887,339.2729679063582,Hauts-de-France
+2022-04-25,24,Spring,période 22,Normal Day,18128.989693,308.27783682273036,Centre-Val de Loire
+2022-04-25,32,Spring,période 22,Normal Day,35000.940732,348.06109637844924,Hauts-de-France
+2022-04-26,24,Spring,période 22,Normal Day,17870.073887,316.2272986317874,Centre-Val de Loire
+2022-04-26,32,Spring,période 22,Normal Day,34533.280758,356.35916605970596,Hauts-de-France
+2022-04-27,24,Spring,période 22,Normal Day,17535.103466,314.81049237527054,Centre-Val de Loire
+2022-04-27,32,Spring,période 22,Normal Day,34033.782404,353.1041069860734,Hauts-de-France
+2022-04-28,24,Spring,période 22,Normal Day,16933.157949,313.8538524759953,Centre-Val de Loire
+2022-04-28,32,Spring,période 22,Normal Day,32999.244335,351.8811209524558,Hauts-de-France
+2022-04-29,24,Spring,période 22,Normal Day,16607.461227,313.1968740319673,Centre-Val de Loire
+2022-04-29,32,Spring,période 22,Normal Day,32432.46785,349.52911133984185,Hauts-de-France
+2022-04-30,24,Spring,période 22,Week-end,16792.916955,301.29509792476927,Centre-Val de Loire
+2022-04-30,32,Spring,période 22,Week-end,32801.528032,335.06084315420844,Hauts-de-France
+2022-05-01,24,Spring,période 22,National Holidays,16898.937885,301.08108134982643,Centre-Val de Loire
+2022-05-01,32,Spring,période 22,National Holidays,33032.871576,329.38560139466364,Hauts-de-France
+2022-05-02,24,Spring,période 22,Normal Day,16474.403142,308.0702173692398,Centre-Val de Loire
+2022-05-02,32,Spring,période 22,Normal Day,32235.957935,331.0402418955125,Hauts-de-France
+2022-05-03,24,Spring,période 22,Normal Day,16080.018331,314.97601143273386,Centre-Val de Loire
+2022-05-03,32,Spring,période 22,Normal Day,31556.453272,338.28182007611326,Hauts-de-France
+2022-05-04,24,Spring,période 22,Normal Day,16211.201541,314.98528771600627,Centre-Val de Loire
+2022-05-04,32,Spring,période 22,Normal Day,31880.987506,338.812455194692,Hauts-de-France
+2022-05-05,24,Spring,période 22,Normal Day,16120.103865000001,318.7178488471629,Centre-Val de Loire
+2022-05-05,32,Spring,période 22,Normal Day,31700.646995,342.5785052288664,Hauts-de-France
+2022-05-06,24,Spring,période 22,Normal Day,15985.294767,318.035362239196,Centre-Val de Loire
+2022-05-06,32,Spring,période 22,Normal Day,31491.307271,343.0618845581874,Hauts-de-France
+2022-05-07,24,Spring,période 22,Week-end,15622.688755,298.74840315948944,Centre-Val de Loire
+2022-05-07,32,Spring,période 22,Week-end,30891.97917,321.25313918044935,Hauts-de-France
+2022-05-08,24,Spring,période 22,National Holidays,15355.922968,287.86702877641534,Centre-Val de Loire
+2022-05-08,32,Spring,période 22,National Holidays,30435.37361,311.4674669737073,Hauts-de-France
+2022-05-09,24,Spring,période 22,Normal Day,14875.194994,302.0211674599049,Centre-Val de Loire
+2022-05-09,32,Spring,période 22,Normal Day,29561.106947,321.7906801152062,Hauts-de-France
+2022-05-10,24,Spring,période 22,Normal Day,14436.772001,306.8185217594543,Centre-Val de Loire
+2022-05-10,32,Spring,période 22,Normal Day,28768.237738,323.77335250653095,Hauts-de-France
+2022-05-11,24,Spring,période 22,Normal Day,14479.577769,306.68089094174263,Centre-Val de Loire
+2022-05-11,32,Spring,période 22,Normal Day,28887.442485,323.93177158106965,Hauts-de-France
+2022-05-12,24,Spring,période 22,Normal Day,14353.399895,310.2975934550183,Centre-Val de Loire
+2022-05-12,32,Spring,période 22,Normal Day,28655.560646,325.194616274561,Hauts-de-France
+2022-05-13,24,Spring,période 22,Normal Day,14400.905746,312.1026569475075,Centre-Val de Loire
+2022-05-13,32,Spring,période 22,Normal Day,28759.506752,327.4161227228304,Hauts-de-France
+2022-05-14,24,Spring,période 22,Week-end,14494.655471,300.28645212403404,Centre-Val de Loire
+2022-05-14,32,Spring,période 22,Week-end,28956.150139,317.69841445856724,Hauts-de-France
+2022-05-15,24,Spring,période 22,Week-end,14259.5118,287.4239464598408,Centre-Val de Loire
+2022-05-15,32,Spring,période 22,Week-end,28578.13106,306.0735929584141,Hauts-de-France
+2022-05-16,24,Spring,période 22,Normal Day,14080.316691,297.49622576772026,Centre-Val de Loire
+2022-05-16,32,Spring,période 22,Normal Day,28255.021473,313.11739246633124,Hauts-de-France
+2022-05-17,24,Spring,période 22,Normal Day,14041.555213,311.50386909368154,Centre-Val de Loire
+2022-05-17,32,Spring,période 22,Normal Day,28180.648721,327.6673753751834,Hauts-de-France
+2022-05-18,24,Spring,période 22,Normal Day,14281.45885,311.9545425408763,Centre-Val de Loire
+2022-05-18,32,Spring,période 22,Normal Day,28733.832705,329.74640016361116,Hauts-de-France
+2022-05-19,24,Spring,période 22,Normal Day,14120.268793,313.2790484893984,Centre-Val de Loire
+2022-05-19,32,Spring,période 22,Normal Day,28407.983479,328.28862366323204,Hauts-de-France
+2022-05-20,24,Spring,période 22,Normal Day,14209.174424,313.0155779544907,Centre-Val de Loire
+2022-05-20,32,Spring,période 22,Normal Day,28574.370181,328.44855302400265,Hauts-de-France
+2022-05-21,24,Spring,période 22,Week-end,14196.800462,298.3640216644739,Centre-Val de Loire
+2022-05-21,32,Spring,période 22,Week-end,28571.123581,312.37350934011306,Hauts-de-France
+2022-05-22,24,Spring,période 22,Week-end,14185.535688,286.0880450976894,Centre-Val de Loire
+2022-05-22,32,Spring,période 22,Week-end,28573.757855,306.32172308766485,Hauts-de-France
+2022-05-23,24,Spring,période 22,Normal Day,14112.503755,292.46749947962275,Centre-Val de Loire
+2022-05-23,32,Spring,période 22,Normal Day,28409.309351,308.6216943141334,Hauts-de-France
+2022-05-24,24,Spring,période 22,Normal Day,14101.876709,299.4006277622402,Centre-Val de Loire
+2022-05-24,32,Spring,période 22,Normal Day,28364.072739,316.488162110075,Hauts-de-France
+2022-05-25,24,Spring,période 22,Normal Day,14324.899528,302.6796309918522,Centre-Val de Loire
+2022-05-25,32,Spring,période 22,Normal Day,28749.510485,318.91883015268877,Hauts-de-France
+2022-05-26,24,Spring,période 22,National Holidays,14111.335193,294.9420269365074,Centre-Val de Loire
+2022-05-26,32,Spring,période 22,National Holidays,28293.091548,310.09934074271143,Hauts-de-France
+2022-05-27,24,Spring,période 22,Normal Day,14115.620023,290.68991093979827,Centre-Val de Loire
+2022-05-27,32,Spring,période 22,Normal Day,28340.872311,306.1736173546041,Hauts-de-France
+2022-05-28,24,Spring,période 22,Week-end,14104.295465,290.41291286646003,Centre-Val de Loire
+2022-05-28,32,Spring,période 22,Week-end,28214.411877,305.9827908267739,Hauts-de-France
+2022-05-29,24,Spring,période 22,Week-end,14238.433538,282.842091454679,Centre-Val de Loire
+2022-05-29,32,Spring,période 22,Week-end,28497.061294,301.4409748666997,Hauts-de-France
+2022-05-30,24,Spring,période 22,Normal Day,14418.654642,298.85423435667,Centre-Val de Loire
+2022-05-30,32,Spring,période 22,Normal Day,28820.650264,318.5761133500333,Hauts-de-France
+2022-05-31,24,Spring,période 22,Normal Day,14287.048641,308.01712429335475,Centre-Val de Loire
+2022-05-31,32,Spring,période 22,Normal Day,28577.129874000002,327.05070908654756,Hauts-de-France
+2022-06-01,24,Spring,période 22,Normal Day,14348.178532,296.12266232833974,Centre-Val de Loire
+2022-06-01,32,Spring,période 22,Normal Day,28682.712995,312.57097287490745,Hauts-de-France
+2022-06-02,24,Spring,période 22,Normal Day,14130.166158,296.950080901241,Centre-Val de Loire
+2022-06-02,32,Spring,période 22,Normal Day,28241.235059,313.13918824949667,Hauts-de-France
+2022-06-03,24,Spring,période 22,Normal Day,14112.012718,296.62481117785575,Centre-Val de Loire
+2022-06-03,32,Spring,période 22,Normal Day,28251.603906,312.240094096214,Hauts-de-France
+2022-06-04,24,Spring,période 22,Week-end,14079.933963,282.1129569098701,Centre-Val de Loire
+2022-06-04,32,Spring,période 22,Week-end,28199.056937,296.7876458950834,Hauts-de-France
+2022-06-05,24,Spring,période 22,Week-end,13826.133298,267.0100165489592,Centre-Val de Loire
+2022-06-05,32,Spring,période 22,Week-end,27739.136549,288.13902235234775,Hauts-de-France
+2022-06-06,24,Spring,période 22,National Holidays,14022.570527,271.2822505405995,Centre-Val de Loire
+2022-06-06,32,Spring,période 22,National Holidays,28119.375087,287.64413336424224,Hauts-de-France
+2022-06-07,24,Spring,période 22,Normal Day,13999.680964,286.91887385917823,Centre-Val de Loire
+2022-06-07,32,Spring,période 22,Normal Day,28050.946293,305.14275217744455,Hauts-de-France
+2022-06-08,24,Spring,période 22,Normal Day,14111.478704,286.2521049329414,Centre-Val de Loire
+2022-06-08,32,Spring,période 22,Normal Day,28282.590044,303.5108303828776,Hauts-de-France
+2022-06-09,24,Spring,période 22,Normal Day,13957.662048,285.57381576446045,Centre-Val de Loire
+2022-06-09,32,Spring,période 22,Normal Day,27919.903627,302.6958497488968,Hauts-de-France
+2022-06-10,24,Spring,période 22,Normal Day,13993.927706,290.4356645296365,Centre-Val de Loire
+2022-06-10,32,Spring,période 22,Normal Day,27983.984474,306.58425435429075,Hauts-de-France
+2022-06-11,24,Spring,période 22,Week-end,14038.285364,280.5732518299706,Centre-Val de Loire
+2022-06-11,32,Spring,période 22,Week-end,28097.205838,295.6356385113272,Hauts-de-France
+2022-06-12,24,Spring,période 22,Week-end,13985.736614,271.7518512199189,Centre-Val de Loire
+2022-06-12,32,Spring,période 22,Week-end,28034.191497,291.71102293527537,Hauts-de-France
+2022-06-13,24,Spring,période 22,Normal Day,14109.257355,289.756879871795,Centre-Val de Loire
+2022-06-13,32,Spring,période 22,Normal Day,28267.809322,305.043512650666,Hauts-de-France
+2022-06-14,24,Spring,période 22,Normal Day,14167.0991,306.2140582632659,Centre-Val de Loire
+2022-06-14,32,Spring,période 22,Normal Day,28365.355928,321.49980487769074,Hauts-de-France
+2022-06-15,24,Spring,période 22,Normal Day,14481.529597,312.3652254969957,Centre-Val de Loire
+2022-06-15,32,Spring,période 22,Normal Day,29025.050945,327.63089156320626,Hauts-de-France
+2022-06-16,24,Spring,période 22,Normal Day,14578.319549,319.04540223771653,Centre-Val de Loire
+2022-06-16,32,Spring,période 22,Normal Day,29218.051255,336.28978445934035,Hauts-de-France
+2022-06-17,24,Spring,période 22,Normal Day,14959.792838,323.4655484249442,Centre-Val de Loire
+2022-06-17,32,Spring,période 22,Normal Day,29981.322982,339.30506182567865,Hauts-de-France
+2022-06-18,24,Spring,période 22,Week-end,15110.580701,308.6545487928127,Centre-Val de Loire
+2022-06-18,32,Spring,période 22,Week-end,30320.562271,325.4373769486174,Hauts-de-France
+2022-06-19,24,Spring,période 22,Week-end,14724.856428000001,290.58754869860235,Centre-Val de Loire
+2022-06-19,32,Spring,période 22,Week-end,29571.620785,309.27788709378456,Hauts-de-France
+2022-06-20,24,Spring,période 22,Normal Day,14440.276267,298.05015504048305,Centre-Val de Loire
+2022-06-20,32,Spring,période 22,Normal Day,29001.741618,313.5807043986901,Hauts-de-France
+2022-06-21,24,Summer,période 22,Normal Day,14191.174414,305.7719641189936,Centre-Val de Loire
+2022-06-21,32,Summer,période 22,Normal Day,28488.036785,322.52457154878874,Hauts-de-France
+2022-06-22,24,Summer,période 22,Normal Day,14226.074214,300.6629367591935,Centre-Val de Loire
+2022-06-22,32,Summer,période 22,Normal Day,28569.600193,318.0085923538124,Hauts-de-France
+2022-06-23,24,Summer,période 22,Normal Day,14050.01472,300.1279503824631,Centre-Val de Loire
+2022-06-23,32,Summer,période 22,Normal Day,28198.609373,318.0760610918806,Hauts-de-France
+2022-06-24,24,Summer,période 22,Normal Day,13958.177848,295.6792961137129,Centre-Val de Loire
+2022-06-24,32,Summer,période 22,Normal Day,28014.026434,313.7079767857828,Hauts-de-France
+2022-06-25,24,Summer,période 22,Week-end,13971.816813,279.9425632397612,Centre-Val de Loire
+2022-06-25,32,Summer,période 22,Week-end,28016.883973,295.93836794812665,Hauts-de-France
+2022-06-26,24,Summer,période 22,Week-end,13999.309956,270.96214417079483,Centre-Val de Loire
+2022-06-26,32,Summer,période 22,Week-end,28073.030052,291.07499081608574,Hauts-de-France
+2022-06-27,24,Summer,période 22,Normal Day,13987.203181,284.40683585339013,Centre-Val de Loire
+2022-06-27,32,Summer,période 22,Normal Day,28031.049185,301.8235701341461,Hauts-de-France
+2022-06-28,24,Summer,période 22,Normal Day,13883.264529,294.8438732676554,Centre-Val de Loire
+2022-06-28,32,Summer,période 22,Normal Day,27792.912694,311.3256279428457,Hauts-de-France
+2022-06-29,24,Summer,période 22,Normal Day,14041.520426,296.78042761165074,Centre-Val de Loire
+2022-06-29,32,Summer,période 22,Normal Day,28140.019463,317.6742833300765,Hauts-de-France
+2022-06-30,24,Summer,période 22,Normal Day,14108.786148,296.6207981916819,Centre-Val de Loire
+2022-06-30,32,Summer,période 22,Normal Day,28254.882106,317.2050979136154,Hauts-de-France
+2022-07-01,24,Summer,période 22,Normal Day,13807.584567,296.23596608611496,Centre-Val de Loire
+2022-07-01,32,Summer,période 22,Normal Day,26767.005205,298.5626105072474,Hauts-de-France
+2022-07-02,24,Summer,période 22,Week-end,13818.367279,287.9441918576236,Centre-Val de Loire
+2022-07-02,32,Summer,période 22,Week-end,26769.188249,290.03854642262576,Hauts-de-France
+2022-07-03,24,Summer,période 22,Week-end,13715.558299,280.19768324501547,Centre-Val de Loire
+2022-07-03,32,Summer,période 22,Week-end,26609.182475,284.9883561455498,Hauts-de-France
+2022-07-04,24,Summer,période 22,Normal Day,13883.816344,300.9268926924673,Centre-Val de Loire
+2022-07-04,32,Summer,période 22,Normal Day,26858.540038,300.7801102517063,Hauts-de-France
+2022-07-05,24,Summer,période 22,Normal Day,13941.178586,314.11963445134967,Centre-Val de Loire
+2022-07-05,32,Summer,période 22,Normal Day,26932.597952,313.99053654526136,Hauts-de-France
+2022-07-06,24,Summer,période 22,Normal Day,14020.801041,317.7365160301875,Centre-Val de Loire
+2022-07-06,32,Summer,période 22,Normal Day,27058.431374,317.2410331717962,Hauts-de-France
+2022-07-07,24,Summer,période 2,School Holidays,13948.846091,319.65750825259545,Centre-Val de Loire
+2022-07-07,32,Summer,période 2,School Holidays,26860.822004,320.21026551590074,Hauts-de-France
+2022-07-08,24,Summer,période 2,School Holidays,14014.081296,321.2293715252166,Centre-Val de Loire
+2022-07-08,32,Summer,période 2,School Holidays,26943.816222,322.0735265510311,Hauts-de-France
+2022-07-09,24,Summer,période 2,Week-end,13944.033637,309.5118899004834,Centre-Val de Loire
+2022-07-09,32,Summer,période 2,Week-end,26794.986507,309.1364003537816,Hauts-de-France
+2022-07-10,24,Summer,période 2,Week-end,13753.215402,298.62376334217777,Centre-Val de Loire
+2022-07-10,32,Summer,période 2,Week-end,26400.710663,300.22850383729383,Hauts-de-France
+2022-07-11,24,Summer,période 2,School Holidays,13983.69351,321.86897303922353,Centre-Val de Loire
+2022-07-11,32,Summer,période 2,School Holidays,26823.689784,319.0270671743966,Hauts-de-France
+2022-07-12,24,Summer,période 2,School Holidays,14232.78374,337.46748537443193,Centre-Val de Loire
+2022-07-12,32,Summer,période 2,School Holidays,27287.475075,333.77443158433186,Hauts-de-France
+2022-07-13,24,Summer,période 2,School Holidays,14332.854216,339.57552669481,Centre-Val de Loire
+2022-07-13,32,Summer,période 2,School Holidays,27478.831855,334.70126969561363,Hauts-de-France
+2022-07-14,24,Summer,période 2,National Holidays,14097.645576,325.4120697884084,Centre-Val de Loire
+2022-07-14,32,Summer,période 2,National Holidays,27035.611622,320.9574612939905,Hauts-de-France
+2022-07-15,24,Summer,période 2,School Holidays,14176.711777,320.9768766470021,Centre-Val de Loire
+2022-07-15,32,Summer,période 2,School Holidays,27156.73622,315.6708899099126,Hauts-de-France
+2022-07-16,24,Summer,période 2,Week-end,14027.220478,318.0223387503901,Centre-Val de Loire
+2022-07-16,32,Summer,période 2,Week-end,26798.539125,312.46493059012573,Hauts-de-France
+2022-07-17,24,Summer,période 2,Week-end,14032.007131,310.1250528324123,Centre-Val de Loire
+2022-07-17,32,Summer,période 2,Week-end,26829.231353,307.1227598378761,Hauts-de-France
+2022-07-18,24,Summer,période 2,School Holidays,14740.75556,334.5597689296159,Centre-Val de Loire
+2022-07-18,32,Summer,période 2,School Holidays,28211.713016,326.0861473358543,Hauts-de-France
+2022-07-19,24,Summer,période 2,School Holidays,15003.82156,344.1513908503695,Centre-Val de Loire
+2022-07-19,32,Summer,période 2,School Holidays,28711.840816,335.18784511348184,Hauts-de-France
+2022-07-20,24,Summer,période 2,School Holidays,14484.655323,334.15055711186363,Centre-Val de Loire
+2022-07-20,32,Summer,période 2,School Holidays,27716.182928,326.1503823740937,Hauts-de-France
+2022-07-21,24,Summer,période 2,School Holidays,14274.233687,330.9723158848953,Centre-Val de Loire
+2022-07-21,32,Summer,période 2,School Holidays,27255.477747,322.103705146395,Hauts-de-France
+2022-07-22,24,Summer,période 2,School Holidays,14286.972802,329.02862603767375,Centre-Val de Loire
+2022-07-22,32,Summer,période 2,School Holidays,27248.058507,320.9679421647604,Hauts-de-France
+2022-07-23,24,Summer,période 2,Week-end,14003.789735,311.69368713417157,Centre-Val de Loire
+2022-07-23,32,Summer,période 2,Week-end,26702.108379,304.73129503472575,Hauts-de-France
+2022-07-24,24,Summer,période 2,Week-end,13962.536473,303.85211869484795,Centre-Val de Loire
+2022-07-24,32,Summer,période 2,Week-end,26666.430219,298.61793302171134,Hauts-de-France
+2022-07-25,24,Summer,période 2,School Holidays,14062.080819,319.8060945480486,Centre-Val de Loire
+2022-07-25,32,Summer,période 2,School Holidays,26830.248749,310.692876513168,Hauts-de-France
+2022-07-26,24,Summer,période 2,School Holidays,13768.00876,327.42882211164533,Centre-Val de Loire
+2022-07-26,32,Summer,période 2,School Holidays,26208.078062,315.7109441154025,Hauts-de-France
+2022-07-27,24,Summer,période 2,School Holidays,13671.538041,327.9040829427611,Centre-Val de Loire
+2022-07-27,32,Summer,période 2,School Holidays,26003.82268,314.183076593185,Hauts-de-France
+2022-07-28,24,Summer,période 2,School Holidays,13657.909824,328.4444927199576,Centre-Val de Loire
+2022-07-28,32,Summer,période 2,School Holidays,25954.502062,317.44864653445967,Hauts-de-France
+2022-07-29,24,Summer,période 2,School Holidays,13588.764124,326.6938793653675,Centre-Val de Loire
+2022-07-29,32,Summer,période 2,School Holidays,25823.219514,315.7305976430235,Hauts-de-France
+2022-07-30,24,Summer,période 2,Week-end,13614.00202,308.8650475773612,Centre-Val de Loire
+2022-07-30,32,Summer,période 2,Week-end,25880.7538,298.88036864969104,Hauts-de-France
+2022-07-31,24,Summer,période 2,Week-end,13546.34845,298.7827235889836,Centre-Val de Loire
+2022-07-31,32,Summer,période 2,Week-end,25800.939213,291.96248586139967,Hauts-de-France
+2022-08-01,24,Summer,période 2,School Holidays,13845.262866000001,314.5163866548708,Centre-Val de Loire
+2022-08-01,32,Summer,période 2,School Holidays,26362.17674,312.11322880109736,Hauts-de-France
+2022-08-02,24,Summer,période 2,School Holidays,14003.95378,324.4734840878649,Centre-Val de Loire
+2022-08-02,32,Summer,période 2,School Holidays,26660.153485,320.5218755759503,Hauts-de-France
+2022-08-03,24,Summer,période 2,School Holidays,14262.861327,329.414043155759,Centre-Val de Loire
+2022-08-03,32,Summer,période 2,School Holidays,27185.408622,324.895897647817,Hauts-de-France
+2022-08-04,24,Summer,période 2,School Holidays,14236.952511,326.4511667361961,Centre-Val de Loire
+2022-08-04,32,Summer,période 2,School Holidays,27168.229271,323.33701289408464,Hauts-de-France
+2022-08-05,24,Summer,période 2,School Holidays,13986.796105,318.4997675734826,Centre-Val de Loire
+2022-08-05,32,Summer,période 2,School Holidays,26697.679975,316.32203446471226,Hauts-de-France
+2022-08-06,24,Summer,période 2,Week-end,13639.539155,299.553932871922,Centre-Val de Loire
+2022-08-06,32,Summer,période 2,Week-end,26034.835168,298.33511579841115,Hauts-de-France
+2022-08-07,24,Summer,période 2,Week-end,13362.552765,290.05017007163275,Centre-Val de Loire
+2022-08-07,32,Summer,période 2,Week-end,25556.686978,293.4042559009728,Hauts-de-France
+2022-08-08,24,Summer,période 2,School Holidays,13507.226061,304.67770116510593,Centre-Val de Loire
+2022-08-08,32,Summer,période 2,School Holidays,25807.579537,303.4298152363972,Hauts-de-France
+2022-08-09,24,Summer,période 2,School Holidays,13643.043542,315.3252836555766,Centre-Val de Loire
+2022-08-09,32,Summer,période 2,School Holidays,26092.407726,314.294206639538,Hauts-de-France
+2022-08-10,24,Summer,période 2,School Holidays,13781.022949,316.75654357496416,Centre-Val de Loire
+2022-08-10,32,Summer,période 2,School Holidays,26428.470260000002,317.4887927555362,Hauts-de-France
+2022-08-11,24,Summer,période 2,School Holidays,13895.358949,317.25243994273745,Centre-Val de Loire
+2022-08-11,32,Summer,période 2,School Holidays,26665.289233,318.54598533160237,Hauts-de-France
+2022-08-12,24,Summer,période 2,School Holidays,14106.372564,316.97283582284166,Centre-Val de Loire
+2022-08-12,32,Summer,période 2,School Holidays,27102.519252000002,320.61310032378896,Hauts-de-France
+2022-08-13,24,Summer,période 2,Week-end,13811.792103,299.75644215884915,Centre-Val de Loire
+2022-08-13,32,Summer,période 2,Week-end,26618.625751,304.857931277885,Hauts-de-France
+2022-08-14,24,Summer,période 2,Week-end,13155.119857,280.8468018332993,Centre-Val de Loire
+2022-08-14,32,Summer,période 2,Week-end,25403.411636,290.9027564043953,Hauts-de-France
+2022-08-15,24,Summer,période 2,National Holidays,12999.484669,281.41590078491197,Centre-Val de Loire
+2022-08-15,32,Summer,période 2,National Holidays,25080.991803,288.42027200006146,Hauts-de-France
+2022-08-16,24,Summer,période 2,School Holidays,13310.896368,293.83701384567115,Centre-Val de Loire
+2022-08-16,32,Summer,période 2,School Holidays,25724.41189,302.8887186759078,Hauts-de-France
+2022-08-17,24,Summer,période 2,School Holidays,13118.290668,289.1344974606877,Centre-Val de Loire
+2022-08-17,32,Summer,période 2,School Holidays,25384.747984,299.40421608321293,Hauts-de-France
+2022-08-18,24,Summer,période 2,School Holidays,13032.392636,286.7622539474935,Centre-Val de Loire
+2022-08-18,32,Summer,période 2,School Holidays,25207.566001,298.1075179619212,Hauts-de-France
+2022-08-19,24,Summer,période 2,School Holidays,13137.599968,286.4227188337432,Centre-Val de Loire
+2022-08-19,32,Summer,période 2,School Holidays,25458.544914,298.69550752142237,Hauts-de-France
+2022-08-20,24,Summer,période 2,Week-end,13196.714823,275.30450609407893,Centre-Val de Loire
+2022-08-20,32,Summer,période 2,Week-end,25596.800851,286.3500174452181,Hauts-de-France
+2022-08-21,24,Summer,période 2,Week-end,13206.28478,267.19786524430435,Centre-Val de Loire
+2022-08-21,32,Summer,période 2,Week-end,25650.409162,286.2610695007863,Hauts-de-France
+2022-08-22,24,Summer,période 2,School Holidays,13365.288443,282.3853581894183,Centre-Val de Loire
+2022-08-22,32,Summer,période 2,School Holidays,26036.472502,296.29097934877865,Hauts-de-France
+2022-08-23,24,Summer,période 2,School Holidays,13580.185277,293.22478775332837,Centre-Val de Loire
+2022-08-23,32,Summer,période 2,School Holidays,26489.824898,307.72561893541246,Hauts-de-France
+2022-08-24,24,Summer,période 2,School Holidays,13858.430737,296.0096012715471,Centre-Val de Loire
+2022-08-24,32,Summer,période 2,School Holidays,27065.569226,314.39769399525943,Hauts-de-France
+2022-08-25,24,Summer,période 2,School Holidays,13862.185946,294.889711921618,Centre-Val de Loire
+2022-08-25,32,Summer,période 2,School Holidays,27171.981411,312.2616242845737,Hauts-de-France
+2022-08-26,24,Summer,période 2,School Holidays,13813.898605,293.73511001058097,Centre-Val de Loire
+2022-08-26,32,Summer,période 2,School Holidays,27066.910339000002,311.0874406961288,Hauts-de-France
+2022-08-27,24,Summer,période 2,Week-end,13697.694771,276.70410246695343,Centre-Val de Loire
+2022-08-27,32,Summer,période 2,Week-end,26844.893345,295.8554592909995,Hauts-de-France
+2022-08-28,24,Summer,période 2,Week-end,13597.885762,267.7882579994766,Centre-Val de Loire
+2022-08-28,32,Summer,période 2,Week-end,26853.053505,290.5096714750672,Hauts-de-France
+2022-08-29,24,Summer,période 2,School Holidays,13820.290342,283.72633965174794,Centre-Val de Loire
+2022-08-29,32,Summer,période 2,School Holidays,27309.731778,304.7565382984524,Hauts-de-France
+2022-08-30,24,Summer,période 2,School Holidays,13859.565793,292.4845310268955,Centre-Val de Loire
+2022-08-30,32,Summer,période 2,School Holidays,27403.501748,313.76448447328625,Hauts-de-France
+2022-08-31,24,Summer,période 2,School Holidays,13826.961494,290.52585954802953,Centre-Val de Loire
+2022-08-31,32,Summer,période 2,School Holidays,27334.184859,311.3428334235831,Hauts-de-France
+2022-09-01,24,Summer,période 23,Normal Day,13756.46057,286.66198798940724,Centre-Val de Loire
+2022-09-01,32,Summer,période 23,Normal Day,27295.725661,323.20243172659883,Hauts-de-France
+2022-09-02,24,Summer,période 23,Normal Day,13642.479311,283.13380831058436,Centre-Val de Loire
+2022-09-02,32,Summer,période 23,Normal Day,27117.267091,321.70298971048226,Hauts-de-France
+2022-09-03,24,Summer,période 23,Week-end,13630.734835,266.7485235155233,Centre-Val de Loire
+2022-09-03,32,Summer,période 23,Week-end,27108.736898,303.3602470044362,Hauts-de-France
+2022-09-04,24,Summer,période 23,Week-end,13633.448796,260.87367073038564,Centre-Val de Loire
+2022-09-04,32,Summer,période 23,Week-end,27233.571088,301.90633954305287,Hauts-de-France
+2022-09-05,24,Summer,période 23,Normal Day,13707.206333,277.02715804729877,Centre-Val de Loire
+2022-09-05,32,Summer,période 23,Normal Day,27411.347262,315.78592145098503,Hauts-de-France
+2022-09-06,24,Summer,période 23,Normal Day,13695.434764,283.88998701154344,Centre-Val de Loire
+2022-09-06,32,Summer,période 23,Normal Day,27433.05744,323.8783854907771,Hauts-de-France
+2022-09-07,24,Summer,période 23,Normal Day,13761.395965,280.198698327988,Centre-Val de Loire
+2022-09-07,32,Summer,période 23,Normal Day,27645.796908,320.27458315127274,Hauts-de-France
+2022-09-08,24,Summer,période 23,Normal Day,13500.374661,278.09898825860387,Centre-Val de Loire
+2022-09-08,32,Summer,période 23,Normal Day,27121.860768,318.6699878398822,Hauts-de-France
+2022-09-09,24,Summer,période 23,Normal Day,13586.54037,277.6117889067148,Centre-Val de Loire
+2022-09-09,32,Summer,période 23,Normal Day,27279.53316,318.59729711350127,Hauts-de-France
+2022-09-10,24,Summer,période 23,Week-end,13614.788358,263.06253051375177,Centre-Val de Loire
+2022-09-10,32,Summer,période 23,Week-end,27422.765057,302.1163783175073,Hauts-de-France
+2022-09-11,24,Summer,période 23,Week-end,13541.719133,256.8856881046738,Centre-Val de Loire
+2022-09-11,32,Summer,période 23,Week-end,27309.390209,302.2329425370265,Hauts-de-France
+2022-09-12,24,Summer,période 23,Normal Day,13557.124414,272.2788507848058,Centre-Val de Loire
+2022-09-12,32,Summer,période 23,Normal Day,27325.122844,315.13215463624624,Hauts-de-France
+2022-09-13,24,Summer,période 23,Normal Day,13657.221694,282.3112381723459,Centre-Val de Loire
+2022-09-13,32,Summer,période 23,Normal Day,27664.314972,326.18438508931376,Hauts-de-France
+2022-09-14,24,Summer,période 23,Normal Day,13820.889731,280.02747097978056,Centre-Val de Loire
+2022-09-14,32,Summer,période 23,Normal Day,28063.033337,324.51756043587073,Hauts-de-France
+2022-09-15,24,Summer,période 23,Normal Day,13632.614544,278.74659097015683,Centre-Val de Loire
+2022-09-15,32,Summer,période 23,Normal Day,27634.087674,325.1265387539081,Hauts-de-France
+2022-09-16,24,Summer,période 23,Normal Day,13650.267131,276.89556185021183,Centre-Val de Loire
+2022-09-16,32,Summer,période 23,Normal Day,27660.623439,322.7770239847047,Hauts-de-France
+2022-09-17,24,Summer,période 23,Week-end,13824.607944,261.8802895466089,Centre-Val de Loire
+2022-09-17,32,Summer,période 23,Week-end,27959.834890000002,304.3334118373549,Hauts-de-France
+2022-09-18,24,Summer,période 23,Week-end,13994.399293,257.00133914847726,Centre-Val de Loire
+2022-09-18,32,Summer,période 23,Week-end,28291.127719,303.54069952354814,Hauts-de-France
+2022-09-19,24,Summer,période 23,Normal Day,13905.048646,270.8557526719631,Centre-Val de Loire
+2022-09-19,32,Summer,période 23,Normal Day,28089.301732,315.05760133883444,Hauts-de-France
+2022-09-20,24,Summer,période 23,Normal Day,14052.25232,279.04754142649966,Centre-Val de Loire
+2022-09-20,32,Summer,période 23,Normal Day,28375.391155,326.3399371371521,Hauts-de-France
+2022-09-21,24,Summer,période 23,Normal Day,14251.358352,278.362918833705,Centre-Val de Loire
+2022-09-21,32,Summer,période 23,Normal Day,28780.859058000002,326.41602880722326,Hauts-de-France
+2022-09-22,24,Summer,période 23,Normal Day,14136.014891,281.1639727774086,Centre-Val de Loire
+2022-09-22,32,Summer,période 23,Normal Day,28535.541363,328.9365400057476,Hauts-de-France
+2022-09-23,24,Autumn,période 23,Normal Day,14270.126669,282.0539979282482,Centre-Val de Loire
+2022-09-23,32,Autumn,période 23,Normal Day,28827.11977,328.23368418368136,Hauts-de-France
+2022-09-24,24,Autumn,période 23,Week-end,14418.249622,265.14858133600563,Centre-Val de Loire
+2022-09-24,32,Autumn,période 23,Week-end,29161.642763,308.9709904601801,Hauts-de-France
+2022-09-25,24,Autumn,période 23,Week-end,14596.313774,258.2981218674834,Centre-Val de Loire
+2022-09-25,32,Autumn,période 23,Week-end,29509.488872,306.1584568631146,Hauts-de-France
+2022-09-26,24,Autumn,période 23,Normal Day,14884.312289,277.7942603809329,Centre-Val de Loire
+2022-09-26,32,Autumn,période 23,Normal Day,30019.039198,323.48543881717245,Hauts-de-France
+2022-09-27,24,Autumn,période 23,Normal Day,15228.927453,287.5193424773413,Centre-Val de Loire
+2022-09-27,32,Autumn,période 23,Normal Day,30658.249666,334.6406072514554,Hauts-de-France
+2022-09-28,24,Autumn,période 23,Normal Day,15535.630782,288.94074169145773,Centre-Val de Loire
+2022-09-28,32,Autumn,période 23,Normal Day,31289.370532,335.3949031467193,Hauts-de-France
+2022-09-29,24,Autumn,période 23,Normal Day,15717.178222,293.1986003116513,Centre-Val de Loire
+2022-09-29,32,Autumn,période 23,Normal Day,31596.355108,342.6754241682313,Hauts-de-France
+2022-09-30,24,Autumn,période 23,Normal Day,16109.128397,295.16957918920747,Centre-Val de Loire
+2022-09-30,32,Autumn,période 23,Normal Day,32296.340298,343.27902015297593,Hauts-de-France
+2022-10-01,24,Autumn,période 23,Week-end,16243.813029,275.52861167206,Centre-Val de Loire
+2022-10-01,32,Autumn,période 23,Week-end,33365.821364,331.54627432660385,Hauts-de-France
+2022-10-02,24,Autumn,période 23,Week-end,15605.51033,262.34700718130506,Centre-Val de Loire
+2022-10-02,32,Autumn,période 23,Week-end,32238.556037,323.7060286008702,Hauts-de-France
+2022-10-03,24,Autumn,période 23,Normal Day,15411.740938,278.2888405913944,Centre-Val de Loire
+2022-10-03,32,Autumn,période 23,Normal Day,31814.611536,338.51519584966957,Hauts-de-France
+2022-10-04,24,Autumn,période 23,Normal Day,15469.252908,285.9877827891346,Centre-Val de Loire
+2022-10-04,32,Autumn,période 23,Normal Day,31945.904145,347.6230869397423,Hauts-de-France
+2022-10-05,24,Autumn,période 23,Normal Day,15160.938758,279.6420087409481,Centre-Val de Loire
+2022-10-05,32,Autumn,période 23,Normal Day,31413.004189,341.38307578452867,Hauts-de-France
+2022-10-06,24,Autumn,période 23,Normal Day,14909.692729,279.5606230091392,Centre-Val de Loire
+2022-10-06,32,Autumn,période 23,Normal Day,30882.491646,342.0989220465846,Hauts-de-France
+2022-10-07,24,Autumn,période 23,Normal Day,15270.587202,281.82398388272367,Centre-Val de Loire
+2022-10-07,32,Autumn,période 23,Normal Day,31608.862107,345.5292927390443,Hauts-de-France
+2022-10-08,24,Autumn,période 23,Week-end,15440.200053,267.75238998994666,Centre-Val de Loire
+2022-10-08,32,Autumn,période 23,Week-end,31968.800354,328.1229650265575,Hauts-de-France
+2022-10-09,24,Autumn,période 23,Week-end,15902.50704,265.26016261029605,Centre-Val de Loire
+2022-10-09,32,Autumn,période 23,Week-end,32897.001768,330.8723064444735,Hauts-de-France
+2022-10-10,24,Autumn,période 23,Normal Day,15415.370414,277.14054189318125,Centre-Val de Loire
+2022-10-10,32,Autumn,période 23,Normal Day,31960.741924,342.0088062041255,Hauts-de-France
+2022-10-11,24,Autumn,période 23,Normal Day,15340.696436,281.425969571186,Centre-Val de Loire
+2022-10-11,32,Autumn,période 23,Normal Day,31846.397933,349.65479916648684,Hauts-de-France
+2022-10-12,24,Autumn,période 23,Normal Day,15799.448129,284.34849246464444,Centre-Val de Loire
+2022-10-12,32,Autumn,période 23,Normal Day,32767.802265,352.2821029712055,Hauts-de-France
+2022-10-13,24,Autumn,période 23,Normal Day,15792.318714,283.1960352146214,Centre-Val de Loire
+2022-10-13,32,Autumn,période 23,Normal Day,32712.118903,351.59344006984634,Hauts-de-France
+2022-10-14,24,Autumn,période 23,Normal Day,15716.644952,281.5271017973722,Centre-Val de Loire
+2022-10-14,32,Autumn,période 23,Normal Day,32562.871036,349.9559125614618,Hauts-de-France
+2022-10-15,24,Autumn,période 23,Week-end,15501.561748,264.7161357698499,Centre-Val de Loire
+2022-10-15,32,Autumn,période 23,Week-end,32118.736472,328.33580932314857,Hauts-de-France
+2022-10-16,24,Autumn,période 23,Week-end,15332.984115,257.34637911508327,Centre-Val de Loire
+2022-10-16,32,Autumn,période 23,Week-end,31806.835481,325.38214940597015,Hauts-de-France
+2022-10-17,24,Autumn,période 23,Normal Day,14886.131199,270.77080425849897,Centre-Val de Loire
+2022-10-17,32,Autumn,période 23,Normal Day,30908.530989,338.52614028251196,Hauts-de-France
+2022-10-18,24,Autumn,période 23,Normal Day,14707.517594,274.82946530600657,Centre-Val de Loire
+2022-10-18,32,Autumn,période 23,Normal Day,30514.828961,344.33266852747266,Hauts-de-France
+2022-10-19,24,Autumn,période 23,Normal Day,14772.445974,273.2548328494713,Centre-Val de Loire
+2022-10-19,32,Autumn,période 23,Normal Day,30656.048804000002,341.62971343892247,Hauts-de-France
+2022-10-20,24,Autumn,période 23,Normal Day,14649.675124,273.39539001391194,Centre-Val de Loire
+2022-10-20,32,Autumn,période 23,Normal Day,30375.627096,342.1702157101842,Hauts-de-France
+2022-10-21,24,Autumn,période 23,Normal Day,14823.266059,274.34561187966307,Centre-Val de Loire
+2022-10-21,32,Autumn,période 23,Normal Day,30661.742143,343.5996019109971,Hauts-de-France
+2022-10-22,24,Autumn,période 3,Week-end,15002.225316,260.25462687456496,Centre-Val de Loire
+2022-10-22,32,Autumn,période 3,Week-end,30966.498234,324.29716033785905,Hauts-de-France
+2022-10-23,24,Autumn,période 3,Week-end,14960.082721,254.22079543186902,Centre-Val de Loire
+2022-10-23,32,Autumn,période 3,Week-end,30854.631985,322.5614518484426,Hauts-de-France
+2022-10-24,24,Autumn,période 3,School Holidays,14972.899811,268.3989467324079,Centre-Val de Loire
+2022-10-24,32,Autumn,période 3,School Holidays,30809.244903,334.8393518600533,Hauts-de-France
+2022-10-25,24,Autumn,période 3,School Holidays,15186.210841,276.6484085953551,Centre-Val de Loire
+2022-10-25,32,Autumn,période 3,School Holidays,31158.746457,344.4536133208798,Hauts-de-France
+2022-10-26,24,Autumn,période 3,School Holidays,14942.669084,274.233729535959,Centre-Val de Loire
+2022-10-26,32,Autumn,période 3,School Holidays,30660.646871,342.19563117760083,Hauts-de-France
+2022-10-27,24,Autumn,période 3,School Holidays,14959.434127,274.6683670164308,Centre-Val de Loire
+2022-10-27,32,Autumn,période 3,School Holidays,30595.869807,342.67321426185015,Hauts-de-France
+2022-10-28,24,Autumn,période 3,School Holidays,14874.995681,274.7953006550488,Centre-Val de Loire
+2022-10-28,32,Autumn,période 3,School Holidays,30407.528917,341.6466167101365,Hauts-de-France
+2022-10-29,24,Autumn,période 3,Week-end,14806.816607,260.9428094076065,Centre-Val de Loire
+2022-10-29,32,Autumn,période 3,Week-end,30234.462025,323.50239045120765,Hauts-de-France
+2022-10-30,24,Autumn,période 3,Week-end,15487.482898,267.00050861193154,Centre-Val de Loire
+2022-10-30,32,Autumn,période 3,Week-end,31569.298984,336.7494481878081,Hauts-de-France
+2022-10-31,24,Autumn,période 3,School Holidays,15377.129286,271.9019773799958,Centre-Val de Loire
+2022-10-31,32,Autumn,période 3,School Holidays,31302.940675,338.2014544424361,Hauts-de-France
+2022-11-01,24,Autumn,période 3,National Holidays,15751.066727,274.84842470415225,Centre-Val de Loire
+2022-11-01,32,Autumn,période 3,National Holidays,31964.902843,339.3351994518284,Hauts-de-France
+2022-11-02,24,Autumn,période 3,School Holidays,16449.719011,288.3856303700353,Centre-Val de Loire
+2022-11-02,32,Autumn,période 3,School Holidays,33260.220734,356.44940985257807,Hauts-de-France
+2022-11-03,24,Autumn,période 3,School Holidays,17605.403808,300.44564555066637,Centre-Val de Loire
+2022-11-03,32,Autumn,période 3,School Holidays,35331.043236,368.97281739816464,Hauts-de-France
+2022-11-04,24,Autumn,période 3,School Holidays,19157.733089,316.6092978059977,Centre-Val de Loire
+2022-11-04,32,Autumn,période 3,School Holidays,38075.693861,386.99149961504565,Hauts-de-France
+2022-11-05,24,Autumn,période 3,Week-end,20664.054053,314.39271491427655,Centre-Val de Loire
+2022-11-05,32,Autumn,période 3,Week-end,40757.265128,381.44441992178605,Hauts-de-France
+2022-11-06,24,Autumn,période 3,Week-end,21012.221684,310.0186263911285,Centre-Val de Loire
+2022-11-06,32,Autumn,période 3,Week-end,41335.249953,380.5408193165756,Hauts-de-France
+2022-11-07,24,Autumn,période 24,Normal Day,19671.275665,312.5133289438592,Centre-Val de Loire
+2022-11-07,32,Autumn,période 24,Normal Day,38776.19771,379.91468767546775,Hauts-de-France
+2022-11-08,24,Autumn,période 24,Normal Day,19270.078917,315.17203698675115,Centre-Val de Loire
+2022-11-08,32,Autumn,période 24,Normal Day,38016.525151,384.1525944906817,Hauts-de-France
+2022-11-09,24,Autumn,période 24,Normal Day,19267.798174,313.52673409662765,Centre-Val de Loire
+2022-11-09,32,Autumn,période 24,Normal Day,37963.683475,382.26618250258707,Hauts-de-France
+2022-11-10,24,Autumn,période 24,Normal Day,20228.226393,326.73981072522986,Centre-Val de Loire
+2022-11-10,32,Autumn,période 24,Normal Day,39512.809409,395.0076815241891,Hauts-de-France
+2022-11-11,24,Autumn,période 24,National Holidays,20548.135983,320.1939492839693,Centre-Val de Loire
+2022-11-11,32,Autumn,période 24,National Holidays,40018.64174,386.04840858038995,Hauts-de-France
+2022-11-12,24,Autumn,période 24,Week-end,20575.552165,313.48415582508466,Centre-Val de Loire
+2022-11-12,32,Autumn,période 24,Week-end,39975.521022,377.7714434348658,Hauts-de-France
+2022-11-13,24,Autumn,période 24,Week-end,20904.676103,311.5761748431073,Centre-Val de Loire
+2022-11-13,32,Autumn,période 24,Week-end,40538.975445,379.9838497550278,Hauts-de-France
+2022-11-14,24,Autumn,période 24,Normal Day,21353.976524,330.2740701522448,Centre-Val de Loire
+2022-11-14,32,Autumn,période 24,Normal Day,41364.21036,397.97707661619165,Hauts-de-France
+2022-11-15,24,Autumn,période 24,Normal Day,21240.812399,334.73263664067946,Centre-Val de Loire
+2022-11-15,32,Autumn,période 24,Normal Day,40989.847364,402.67901073603895,Hauts-de-France
+2022-11-16,24,Autumn,période 24,Normal Day,21537.53958,333.90730946666537,Centre-Val de Loire
+2022-11-16,32,Autumn,période 24,Normal Day,41418.959972,400.14964469040035,Hauts-de-France
+2022-11-17,24,Autumn,période 24,Normal Day,21159.503841,335.1306549277402,Centre-Val de Loire
+2022-11-17,32,Autumn,période 24,Normal Day,40593.975339,401.5009982445387,Hauts-de-France
+2022-11-18,24,Autumn,période 24,Normal Day,22572.922921,347.5982698481176,Centre-Val de Loire
+2022-11-18,32,Autumn,période 24,Normal Day,42924.937866,413.43680031303114,Hauts-de-France
+2022-11-19,24,Autumn,période 24,Week-end,24737.57776,348.95821458104825,Centre-Val de Loire
+2022-11-19,32,Autumn,période 24,Week-end,46536.410768,410.61720726964967,Hauts-de-France
+2022-11-20,24,Autumn,période 24,Week-end,25689.806225,351.23147627415125,Centre-Val de Loire
+2022-11-20,32,Autumn,période 24,Week-end,48159.598152,418.2030140747824,Hauts-de-France
+2022-11-21,24,Autumn,période 24,Normal Day,26369.479005,373.311522683296,Centre-Val de Loire
+2022-11-21,32,Autumn,période 24,Normal Day,49271.347015,438.6349471040239,Hauts-de-France
+2022-11-22,24,Autumn,période 24,Normal Day,26696.973171,383.1055066009923,Centre-Val de Loire
+2022-11-22,32,Autumn,période 24,Normal Day,49772.171601,449.7062646330758,Hauts-de-France
+2022-11-23,24,Autumn,période 24,Normal Day,26214.050823,377.2547968818885,Centre-Val de Loire
+2022-11-23,32,Autumn,période 24,Normal Day,48931.497513,442.08801199116954,Hauts-de-France
+2022-11-24,24,Autumn,période 24,Normal Day,25509.505869,373.18677998355315,Centre-Val de Loire
+2022-11-24,32,Autumn,période 24,Normal Day,47467.046065,437.3231129808927,Hauts-de-France
+2022-11-25,24,Autumn,période 24,Normal Day,25280.876307,371.2868067125776,Centre-Val de Loire
+2022-11-25,32,Autumn,période 24,Normal Day,47002.897618,433.83762651861304,Hauts-de-France
+2022-11-26,24,Autumn,période 24,Week-end,27181.455578,369.5792124923107,Centre-Val de Loire
+2022-11-26,32,Autumn,période 24,Week-end,50188.496864,428.5340071681323,Hauts-de-France
+2022-11-27,24,Autumn,période 24,Week-end,27421.596121,365.68432967400724,Centre-Val de Loire
+2022-11-27,32,Autumn,période 24,Week-end,50560.787607,429.0335564988025,Hauts-de-France
+2022-11-28,24,Autumn,période 24,Normal Day,26542.140539,375.67566713725984,Centre-Val de Loire
+2022-11-28,32,Autumn,période 24,Normal Day,48955.998433,436.73442200783165,Hauts-de-France
+2022-11-29,24,Autumn,période 24,Normal Day,27746.820421,393.49511221157246,Centre-Val de Loire
+2022-11-29,32,Autumn,période 24,Normal Day,51049.996376,459.0149890144582,Hauts-de-France
+2022-11-30,24,Autumn,période 24,Normal Day,29045.341925,399.73647780222734,Centre-Val de Loire
+2022-11-30,32,Autumn,période 24,Normal Day,53312.05031,463.1885619440909,Hauts-de-France
+2022-12-01,24,Autumn,période 24,Normal Day,30344.877819,422.8099650842939,Centre-Val de Loire
+2022-12-01,32,Autumn,période 24,Normal Day,55427.360342,481.4003932136333,Hauts-de-France
+2022-12-02,24,Autumn,période 24,Normal Day,31775.245415,433.3525399647291,Centre-Val de Loire
+2022-12-02,32,Autumn,période 24,Normal Day,57907.531128,493.83679863009456,Hauts-de-France
+2022-12-03,24,Autumn,période 24,Week-end,33202.170598,427.4134015894873,Centre-Val de Loire
+2022-12-03,32,Autumn,période 24,Week-end,60269.636287,485.6473599932066,Hauts-de-France
+2022-12-04,24,Autumn,période 24,Week-end,33341.499204,426.53584241799683,Centre-Val de Loire
+2022-12-04,32,Autumn,période 24,Week-end,60488.800199,488.2188592130705,Hauts-de-France
+2022-12-05,24,Autumn,période 24,Normal Day,33335.356246,442.27498896295725,Centre-Val de Loire
+2022-12-05,32,Autumn,période 24,Normal Day,60431.544522,502.6390884181968,Hauts-de-France
+2022-12-06,24,Autumn,période 24,Normal Day,33651.927463,452.17641503521884,Centre-Val de Loire
+2022-12-06,32,Autumn,période 24,Normal Day,60833.939486,512.2675260421893,Hauts-de-France
+2022-12-07,24,Autumn,période 24,Normal Day,34028.814448,454.2082564068186,Centre-Val de Loire
+2022-12-07,32,Autumn,période 24,Normal Day,61455.37005,511.9191637258018,Hauts-de-France
+2022-12-08,24,Autumn,période 24,Normal Day,34999.126651,452.47660041960575,Centre-Val de Loire
+2022-12-08,32,Autumn,période 24,Normal Day,62946.041486,497.48854290414926,Hauts-de-France
+2022-12-09,24,Autumn,période 24,Normal Day,35538.894908,466.87987636361186,Centre-Val de Loire
+2022-12-09,32,Autumn,période 24,Normal Day,63912.274338,526.8393449680563,Hauts-de-France
+2022-12-10,24,Autumn,période 24,Week-end,37242.753345,462.77281858048093,Centre-Val de Loire
+2022-12-10,32,Autumn,période 24,Week-end,66734.319145,518.0338006130286,Hauts-de-France
+2022-12-11,24,Autumn,période 24,Week-end,39588.312369,483.16973304388137,Centre-Val de Loire
+2022-12-11,32,Autumn,période 24,Week-end,70767.082088,546.4795203356263,Hauts-de-France
+2022-12-12,24,Autumn,période 24,Normal Day,40662.833568,485.3486875710942,Centre-Val de Loire
+2022-12-12,32,Autumn,période 24,Normal Day,72574.398434,530.6447250483545,Hauts-de-France
+2022-12-13,24,Autumn,période 24,Normal Day,40222.597116,490.4585036252225,Centre-Val de Loire
+2022-12-13,32,Autumn,période 24,Normal Day,71994.528645,535.3268340018448,Hauts-de-France
+2022-12-14,24,Autumn,période 24,Normal Day,37172.077701,467.0307013996384,Centre-Val de Loire
+2022-12-14,32,Autumn,période 24,Normal Day,66929.518269,512.3999140837971,Hauts-de-France
+2022-12-15,24,Autumn,période 24,Normal Day,36993.704578,489.1174325099671,Centre-Val de Loire
+2022-12-15,32,Autumn,période 24,Normal Day,66671.364167,549.8630665789951,Hauts-de-France
+2022-12-16,24,Autumn,période 4,School Holidays,37857.253066,491.4458757336393,Centre-Val de Loire
+2022-12-16,32,Autumn,période 4,School Holidays,68092.304195,553.2588990424222,Hauts-de-France
+2022-12-17,24,Autumn,période 4,Week-end,41075.229482,499.8490799729386,Centre-Val de Loire
+2022-12-17,32,Autumn,période 4,Week-end,73550.326747,558.6711150645559,Hauts-de-France
+2022-12-18,24,Autumn,période 4,Week-end,40602.80886,491.2273611212108,Centre-Val de Loire
+2022-12-18,32,Autumn,période 4,Week-end,72738.33487,561.1741239346129,Hauts-de-France
+2022-12-19,24,Autumn,période 4,School Holidays,32852.580782,438.07130635944833,Centre-Val de Loire
+2022-12-19,32,Autumn,période 4,School Holidays,59612.176544,501.55521645526164,Hauts-de-France
+2022-12-20,24,Autumn,période 4,School Holidays,28745.33034,408.4482832996078,Centre-Val de Loire
+2022-12-20,32,Autumn,période 4,School Holidays,52571.7327,468.08909685862034,Hauts-de-France
+2022-12-21,24,Winter,période 4,School Holidays,27330.94865,394.49605635083077,Centre-Val de Loire
+2022-12-21,32,Winter,période 4,School Holidays,50158.81626,452.4880382862954,Hauts-de-France
+2022-12-22,24,Winter,période 4,School Holidays,26430.073338,385.70401175547545,Centre-Val de Loire
+2022-12-22,32,Winter,période 4,School Holidays,48564.491259,443.84979383036267,Hauts-de-France
+2022-12-23,24,Winter,période 4,School Holidays,25051.500934,369.4643666413626,Centre-Val de Loire
+2022-12-23,32,Winter,période 4,School Holidays,46157.571461,425.15764326834454,Hauts-de-France
+2022-12-24,24,Winter,période 4,Week-end,25642.109676,355.0018954871898,Centre-Val de Loire
+2022-12-24,32,Winter,période 4,Week-end,47107.926183999996,406.9756948659638,Hauts-de-France
+2022-12-25,24,Winter,période 4,National Holidays,24894.944389,345.5201715617272,Centre-Val de Loire
+2022-12-25,32,Winter,période 4,National Holidays,45612.569626,401.17427840561555,Hauts-de-France
+2022-12-26,24,Winter,période 4,School Holidays,25666.289657,359.81035444916796,Centre-Val de Loire
+2022-12-26,32,Winter,période 4,School Holidays,47058.930455,414.51415090151784,Hauts-de-France
+2022-12-27,24,Winter,période 4,School Holidays,28429.818505,390.60423683337575,Centre-Val de Loire
+2022-12-27,32,Winter,période 4,School Holidays,51787.200277,447.3090368388479,Hauts-de-France
+2022-12-28,24,Winter,période 4,School Holidays,28346.675936,388.41197925312343,Centre-Val de Loire
+2022-12-28,32,Winter,période 4,School Holidays,51685.147099,445.54893126667764,Hauts-de-France
+2022-12-29,24,Winter,période 4,School Holidays,27263.959451,384.1868425664689,Centre-Val de Loire
+2022-12-29,32,Winter,période 4,School Holidays,49817.386178,440.66585024137714,Hauts-de-France
+2022-12-30,24,Winter,période 4,School Holidays,27643.640319,382.02304426301856,Centre-Val de Loire
+2022-12-30,32,Winter,période 4,School Holidays,50477.913663,438.60338094085114,Hauts-de-France
+2022-12-31,24,Winter,période 4,Week-end,25048.852315,347.677783675317,Centre-Val de Loire
+2022-12-31,32,Winter,période 4,Week-end,46079.278661,405.6547940189026,Hauts-de-France
+2023-01-01,24,Winter,période 4,National Holidays,23365.40432,324.2337628715464,Centre-Val de Loire
+2023-01-01,32,Winter,période 4,National Holidays,43439.824423,384.2395119781581,Hauts-de-France
+2023-01-02,24,Winter,période 4,School Holidays,24222.340127,339.7911445428875,Centre-Val de Loire
+2023-01-02,32,Winter,période 4,School Holidays,45099.806817,401.25683477494385,Hauts-de-France
+2023-01-03,24,Winter,période 25,Normal Day,26348.646223,375.09321334724757,Centre-Val de Loire
+2023-01-03,32,Winter,période 25,Normal Day,48725.833895,437.1220416448716,Hauts-de-France
+2023-01-04,24,Winter,période 25,Normal Day,26249.730951999998,371.91590905692556,Centre-Val de Loire
+2023-01-04,32,Winter,période 25,Normal Day,48469.970497,431.23195631617324,Hauts-de-France
+2023-01-05,24,Winter,période 25,Normal Day,24595.54156,360.36229826988955,Centre-Val de Loire
+2023-01-05,32,Winter,période 25,Normal Day,45558.829994,420.169904854672,Hauts-de-France
+2023-01-06,24,Winter,période 25,Normal Day,24879.940941,361.5383561060837,Centre-Val de Loire
+2023-01-06,32,Winter,période 25,Normal Day,46021.947362,420.7953915633337,Hauts-de-France
+2023-01-07,24,Winter,période 25,Week-end,25908.947374,361.2953201375481,Centre-Val de Loire
+2023-01-07,32,Winter,période 25,Week-end,47662.237691,415.3335291053813,Hauts-de-France
+2023-01-08,24,Winter,période 25,Week-end,26312.703289,354.380364350229,Centre-Val de Loire
+2023-01-08,32,Winter,période 25,Week-end,48349.685486,409.0617984717202,Hauts-de-France
+2023-01-09,24,Winter,période 25,Normal Day,27999.913217,387.5637202360063,Centre-Val de Loire
+2023-01-09,32,Winter,période 25,Normal Day,51193.532375,446.4476871544413,Hauts-de-France
+2023-01-10,24,Winter,période 25,Normal Day,28537.855103,400.4216035076073,Centre-Val de Loire
+2023-01-10,32,Winter,période 25,Normal Day,52005.48464,461.08676853425766,Hauts-de-France
+2023-01-11,24,Winter,période 25,Normal Day,26948.883828,378.64970262788376,Centre-Val de Loire
+2023-01-11,32,Winter,période 25,Normal Day,49274.698993,437.04228284298154,Hauts-de-France
+2023-01-12,24,Winter,période 25,Normal Day,27024.674636,383.9966102222334,Centre-Val de Loire
+2023-01-12,32,Winter,période 25,Normal Day,49306.886204,443.28898641645094,Hauts-de-France
+2023-01-13,24,Winter,période 25,Normal Day,26725.93802,380.4513165691172,Centre-Val de Loire
+2023-01-13,32,Winter,période 25,Normal Day,48644.484912,439.91887091403834,Hauts-de-France
+2023-01-14,24,Winter,période 25,Week-end,27393.290965,375.31623753352375,Centre-Val de Loire
+2023-01-14,32,Winter,période 25,Week-end,49687.396924,434.6341002428531,Hauts-de-France
+2023-01-15,24,Winter,période 25,Week-end,28555.68833,376.46241906569696,Centre-Val de Loire
+2023-01-15,32,Winter,période 25,Week-end,51564.550557,433.99754911280377,Hauts-de-France
+2023-01-16,24,Winter,période 25,Normal Day,30941.158302,408.84744698396906,Centre-Val de Loire
+2023-01-16,32,Winter,période 25,Normal Day,55327.530045,469.0099115808764,Hauts-de-France
+2023-01-17,24,Winter,période 25,Normal Day,32754.44277,428.8361206067499,Centre-Val de Loire
+2023-01-17,32,Winter,période 25,Normal Day,58242.046825,485.7250469822451,Hauts-de-France
+2023-01-18,24,Winter,période 25,Normal Day,34981.947124,442.61119764667234,Centre-Val de Loire
+2023-01-18,32,Winter,période 25,Normal Day,61798.094593,494.37917566258614,Hauts-de-France
+2023-01-19,24,Winter,période 25,Normal Day,36342.363478,449.8875983420354,Centre-Val de Loire
+2023-01-19,32,Winter,période 25,Normal Day,63766.522621,488.2787159040014,Hauts-de-France
+2023-01-20,24,Winter,période 25,Normal Day,36632.029974,450.57617146145117,Centre-Val de Loire
+2023-01-20,32,Winter,période 25,Normal Day,64016.777509,485.44813254861765,Hauts-de-France
+2023-01-21,24,Winter,période 25,Week-end,37822.524851,469.74519267975194,Centre-Val de Loire
+2023-01-21,32,Winter,période 25,Week-end,65810.95236,514.5755101944393,Hauts-de-France
+2023-01-22,24,Winter,période 25,Week-end,40200.713758,478.61808936557316,Centre-Val de Loire
+2023-01-22,32,Winter,période 25,Week-end,69489.014535,524.3810919538033,Hauts-de-France
+2023-01-23,24,Winter,période 25,Normal Day,39483.586385,464.9866250451316,Centre-Val de Loire
+2023-01-23,32,Winter,période 25,Normal Day,68122.957672,493.4729140681331,Hauts-de-France
+2023-01-24,24,Winter,période 25,Normal Day,38094.493777,462.45618524137757,Centre-Val de Loire
+2023-01-24,32,Winter,période 25,Normal Day,65745.139474,491.74850798241005,Hauts-de-France
+2023-01-25,24,Winter,période 25,Normal Day,38207.386008,461.40592493819423,Centre-Val de Loire
+2023-01-25,32,Winter,période 25,Normal Day,65830.718856,505.2519330609065,Hauts-de-France
+2023-01-26,24,Winter,période 25,Normal Day,37705.232326,477.2872646211282,Centre-Val de Loire
+2023-01-26,32,Winter,période 25,Normal Day,64812.328642,515.2755720366386,Hauts-de-France
+2023-01-27,24,Winter,période 25,Normal Day,37015.576789,454.3642183272293,Centre-Val de Loire
+2023-01-27,32,Winter,période 25,Normal Day,63601.406991,480.260806406534,Hauts-de-France
+2023-01-28,24,Winter,période 25,Week-end,37596.279614,465.63598278308507,Centre-Val de Loire
+2023-01-28,32,Winter,période 25,Week-end,64344.589602,508.1393791044797,Hauts-de-France
+2023-01-29,24,Winter,période 25,Week-end,37513.964236,459.9241605505555,Centre-Val de Loire
+2023-01-29,32,Winter,période 25,Week-end,64179.459771,504.5989757494332,Hauts-de-France
+2023-01-30,24,Winter,période 25,Normal Day,35834.696684,448.7416571369376,Centre-Val de Loire
+2023-01-30,32,Winter,période 25,Normal Day,61280.511327,478.63031896100506,Hauts-de-France
+2023-01-31,24,Winter,période 25,Normal Day,33694.913393,433.64301619092794,Centre-Val de Loire
+2023-01-31,32,Winter,période 25,Normal Day,58006.328768,469.59628698879544,Hauts-de-France
+2023-02-01,24,Winter,période 25,Normal Day,31795.308946,420.74311565333824,Centre-Val de Loire
+2023-02-01,32,Winter,période 25,Normal Day,54820.003298999996,460.18327929104055,Hauts-de-France
+2023-02-02,24,Winter,période 25,Normal Day,30906.830257,416.22122542613664,Centre-Val de Loire
+2023-02-02,32,Winter,période 25,Normal Day,53294.349117,454.98456007234626,Hauts-de-France
+2023-02-03,24,Winter,période 25,Normal Day,30410.041347,409.51913534091534,Centre-Val de Loire
+2023-02-03,32,Winter,période 25,Normal Day,52400.754496,447.3991973967395,Hauts-de-France
+2023-02-04,24,Winter,période 25,Week-end,29870.082464,391.16450872530885,Centre-Val de Loire
+2023-02-04,32,Winter,période 25,Week-end,51489.961391,429.4075848036718,Hauts-de-France
+2023-02-05,24,Winter,période 25,Week-end,29568.037602,385.2354015133043,Centre-Val de Loire
+2023-02-05,32,Winter,période 25,Week-end,50996.963344,424.2472468580703,Hauts-de-France
+2023-02-06,24,Winter,période 25,Normal Day,31417.847215,409.5050200760293,Centre-Val de Loire
+2023-02-06,32,Winter,période 25,Normal Day,53848.973253,443.13193889900833,Hauts-de-France
+2023-02-07,24,Winter,période 25,Normal Day,33519.482854,420.8221436725573,Centre-Val de Loire
+2023-02-07,32,Winter,période 25,Normal Day,57220.916116,446.88705360663187,Hauts-de-France
+2023-02-08,24,Winter,période 25,Normal Day,35131.424925,445.60988225220234,Centre-Val de Loire
+2023-02-08,32,Winter,période 25,Normal Day,59832.741605,480.5175830222646,Hauts-de-France
+2023-02-09,24,Winter,période 25,Normal Day,35670.2391,445.62727894777316,Centre-Val de Loire
+2023-02-09,32,Winter,période 25,Normal Day,60591.485948,468.3563998193665,Hauts-de-France
+2023-02-10,24,Winter,période 25,Normal Day,34302.713412,437.06085394948894,Centre-Val de Loire
+2023-02-10,32,Winter,période 25,Normal Day,58331.829296,455.2269849572734,Hauts-de-France
+2023-02-11,24,Winter,période 5,Week-end,33794.577964,433.25268883983404,Centre-Val de Loire
+2023-02-11,32,Winter,période 5,Week-end,57589.729405,469.8132059707043,Hauts-de-France
+2023-02-12,24,Winter,période 5,Week-end,32144.922778,408.1474407633081,Centre-Val de Loire
+2023-02-12,32,Winter,période 5,Week-end,54987.898152,443.0649196559223,Hauts-de-France
+2023-02-13,24,Winter,période 5,School Holidays,31639.980742,413.88321450800987,Centre-Val de Loire
+2023-02-13,32,Winter,période 5,School Holidays,54280.888049,448.1364692046288,Hauts-de-France
+2023-02-14,24,Winter,période 5,School Holidays,30523.667665,409.0418019203365,Centre-Val de Loire
+2023-02-14,32,Winter,période 5,School Holidays,52569.64078,451.2088624763739,Hauts-de-France
+2023-02-15,24,Winter,période 5,School Holidays,29569.756071,398.25845827919954,Centre-Val de Loire
+2023-02-15,32,Winter,période 5,School Holidays,51194.135653,437.8533758831414,Hauts-de-France
+2023-02-16,24,Winter,période 5,School Holidays,28465.954621,388.6598105655297,Centre-Val de Loire
+2023-02-16,32,Winter,période 5,School Holidays,49583.194934,427.9095648630538,Hauts-de-France
+2023-02-17,24,Winter,période 5,School Holidays,26285.163075,371.3091958423723,Centre-Val de Loire
+2023-02-17,32,Winter,période 5,School Holidays,46147.560648,412.79054931156935,Hauts-de-France
+2023-02-18,24,Winter,période 5,Week-end,25382.302333,356.1162601419698,Centre-Val de Loire
+2023-02-18,32,Winter,période 5,Week-end,44749.976708,397.3480425381938,Hauts-de-France
+2023-02-19,24,Winter,période 5,Week-end,25194.774671,345.2761887963592,Centre-Val de Loire
+2023-02-19,32,Winter,période 5,Week-end,44351.59808,384.07319381574774,Hauts-de-France
+2023-02-20,24,Winter,période 5,School Holidays,26298.340422,367.9861114067976,Centre-Val de Loire
+2023-02-20,32,Winter,période 5,School Holidays,46146.57564,407.6773695918129,Hauts-de-France
+2023-02-21,24,Winter,période 5,School Holidays,26406.927433,372.85305656798795,Centre-Val de Loire
+2023-02-21,32,Winter,période 5,School Holidays,46389.095265,421.69458360849586,Hauts-de-France
+2023-02-22,24,Winter,période 5,School Holidays,26399.152707,368.14935185863584,Centre-Val de Loire
+2023-02-22,32,Winter,période 5,School Holidays,46479.382944,414.1901814288376,Hauts-de-France
+2023-02-23,24,Winter,période 5,School Holidays,27376.600406,377.2714174498027,Centre-Val de Loire
+2023-02-23,32,Winter,période 5,School Holidays,47980.564905,420.7688263351243,Hauts-de-France
+2023-02-24,24,Winter,période 5,School Holidays,27468.474016,379.38849099644256,Centre-Val de Loire
+2023-02-24,32,Winter,période 5,School Holidays,48099.471931,419.5517331015244,Hauts-de-France
+2023-02-25,24,Winter,période 5,Week-end,29439.126689,390.0658012268291,Centre-Val de Loire
+2023-02-25,32,Winter,période 5,Week-end,51327.872138,431.1036795696966,Hauts-de-France
+2023-02-26,24,Winter,période 5,Week-end,32571.350556,411.9691095329781,Centre-Val de Loire
+2023-02-26,32,Winter,période 5,Week-end,56368.677999,450.6658531575151,Hauts-de-France
+2023-02-27,24,Winter,période 26,Normal Day,35102.562895,441.3984183114689,Centre-Val de Loire
+2023-02-27,32,Winter,période 26,Normal Day,60467.612168,474.8012620364482,Hauts-de-France
+2023-02-28,24,Winter,période 26,Normal Day,35429.959039,439.5720264761197,Centre-Val de Loire
+2023-02-28,32,Winter,période 26,Normal Day,61063.190554,467.0423938096507,Hauts-de-France
+2023-03-01,24,Winter,période 26,Normal Day,34855.856651,426.54615779533674,Centre-Val de Loire
+2023-03-01,32,Winter,période 26,Normal Day,61998.708242,460.9016022893655,Hauts-de-France
+2023-03-02,24,Winter,période 26,Normal Day,33506.627225,421.21293010482316,Centre-Val de Loire
+2023-03-02,32,Winter,période 26,Normal Day,59758.275452,452.75455684805524,Hauts-de-France
+2023-03-03,24,Winter,période 26,Normal Day,32073.092931,413.7426939694444,Centre-Val de Loire
+2023-03-03,32,Winter,période 26,Normal Day,57590.816667,452.3645336894883,Hauts-de-France
+2023-03-04,24,Winter,période 26,Week-end,32179.741402,419.8522735635361,Centre-Val de Loire
+2023-03-04,32,Winter,période 26,Week-end,58124.921747,471.68043666720666,Hauts-de-France
+2023-03-05,24,Winter,période 26,Week-end,31392.977585,398.0897679256812,Centre-Val de Loire
+2023-03-05,32,Winter,période 26,Week-end,56887.650639,456.1809215740742,Hauts-de-France
+2023-03-06,24,Winter,période 26,Normal Day,31132.01426,396.7234604097452,Centre-Val de Loire
+2023-03-06,32,Winter,période 26,Normal Day,56537.229627,437.59271900023396,Hauts-de-France
+2023-03-07,24,Winter,période 26,Normal Day,30997.454443,399.34106021567635,Centre-Val de Loire
+2023-03-07,32,Winter,période 26,Normal Day,56762.63947,444.71499270313586,Hauts-de-France
+2023-03-08,24,Winter,période 26,Normal Day,28237.626309,379.81647153854436,Centre-Val de Loire
+2023-03-08,32,Winter,période 26,Normal Day,52178.2256,435.20904092934944,Hauts-de-France
+2023-03-09,24,Winter,période 26,Normal Day,24909.257945,353.8730407962722,Centre-Val de Loire
+2023-03-09,32,Winter,période 26,Normal Day,46334.783038,407.67683169483587,Hauts-de-France
+2023-03-10,24,Winter,période 26,Normal Day,26264.631202,374.3305443763197,Centre-Val de Loire
+2023-03-10,32,Winter,période 26,Normal Day,48721.631776,438.76867892635346,Hauts-de-France
+2023-03-11,24,Winter,période 26,Week-end,26728.731678,369.81783170305755,Centre-Val de Loire
+2023-03-11,32,Winter,période 26,Week-end,49536.251043,431.7184195569409,Hauts-de-France
+2023-03-12,24,Winter,période 26,Week-end,23981.113315,330.5344025091669,Centre-Val de Loire
+2023-03-12,32,Winter,période 26,Week-end,44745.316104,387.38227856102674,Hauts-de-France
+2023-03-13,24,Winter,période 26,Normal Day,21655.804129,320.7291331045551,Centre-Val de Loire
+2023-03-13,32,Winter,période 26,Normal Day,40585.390261,372.33592561082264,Hauts-de-France
+2023-03-14,24,Winter,période 26,Normal Day,23278.95801,344.28343747353534,Centre-Val de Loire
+2023-03-14,32,Winter,période 26,Normal Day,43467.767671,399.79853222890796,Hauts-de-France
+2023-03-15,24,Winter,période 26,Normal Day,24867.112523,349.72347206376895,Centre-Val de Loire
+2023-03-15,32,Winter,période 26,Normal Day,46208.337845,401.20585373094434,Hauts-de-France
+2023-03-16,24,Winter,période 26,Normal Day,23414.469398,344.22402700417973,Centre-Val de Loire
+2023-03-16,32,Winter,période 26,Normal Day,43637.714327,399.50904669574646,Hauts-de-France
+2023-03-17,24,Winter,période 26,Normal Day,22077.589184,329.50896264454695,Centre-Val de Loire
+2023-03-17,32,Winter,période 26,Normal Day,41325.121686,384.45838641351867,Hauts-de-France
+2023-03-18,24,Winter,période 26,Week-end,22174.844371,319.8500032728298,Centre-Val de Loire
+2023-03-18,32,Winter,période 26,Week-end,41499.225604,372.9249096074448,Hauts-de-France
+2023-03-19,24,Winter,période 26,Week-end,22491.507776,313.40700941011636,Centre-Val de Loire
+2023-03-19,32,Winter,période 26,Week-end,42058.912736,367.4377808517703,Hauts-de-France
+2023-03-20,24,Spring,période 26,Normal Day,22847.027485,331.19569816266403,Centre-Val de Loire
+2023-03-20,32,Spring,période 26,Normal Day,42601.961035,383.6392281229447,Hauts-de-France
+2023-03-21,24,Spring,période 26,Normal Day,21886.219339,326.5703694314703,Centre-Val de Loire
+2023-03-21,32,Spring,période 26,Normal Day,40940.126849,377.50840774833085,Hauts-de-France
+2023-03-22,24,Spring,période 26,Normal Day,21838.933611,322.79962405423305,Centre-Val de Loire
+2023-03-22,32,Spring,période 26,Normal Day,40984.513699,376.920956011147,Hauts-de-France
+2023-03-23,24,Spring,période 26,Normal Day,20791.978307,315.2980734997312,Centre-Val de Loire
+2023-03-23,32,Spring,période 26,Normal Day,39158.755882,366.9315927638629,Hauts-de-France
+2023-03-24,24,Spring,période 26,Normal Day,20723.167,314.7727025141445,Centre-Val de Loire
+2023-03-24,32,Spring,période 26,Normal Day,39056.238908,368.5438635861534,Hauts-de-France
+2023-03-25,24,Spring,période 26,Week-end,21921.287697,317.7288588436921,Centre-Val de Loire
+2023-03-25,32,Spring,période 26,Week-end,41146.773896,370.0946812512274,Hauts-de-France
+2023-03-26,24,Spring,période 26,Week-end,21718.628499,300.2180564730879,Centre-Val de Loire
+2023-03-26,32,Spring,période 26,Week-end,40726.623097,352.3420578160522,Hauts-de-France
+2023-03-27,24,Spring,période 26,Normal Day,23510.332774,338.3311575981709,Centre-Val de Loire
+2023-03-27,32,Spring,période 26,Normal Day,43880.840368,391.9381675993617,Hauts-de-France
+2023-03-28,24,Spring,période 26,Normal Day,24531.555591,352.8685531038747,Centre-Val de Loire
+2023-03-28,32,Spring,période 26,Normal Day,45692.185626,407.57248195393674,Hauts-de-France
+2023-03-29,24,Spring,période 26,Normal Day,21331.600438,318.0111119610449,Centre-Val de Loire
+2023-03-29,32,Spring,période 26,Normal Day,40104.465245,371.5048954232493,Hauts-de-France
+2023-03-30,24,Spring,période 26,Normal Day,19288.238369,300.92957221473415,Centre-Val de Loire
+2023-03-30,32,Spring,période 26,Normal Day,36531.343511,353.75678537474374,Hauts-de-France
+2023-03-31,24,Spring,période 26,Normal Day,20318.732115,310.98158560453686,Centre-Val de Loire
+2023-03-31,32,Spring,période 26,Normal Day,38359.702853,367.6527143649542,Hauts-de-France
+2023-04-01,24,Spring,période 26,Week-end,21791.784876,314.4099738171755,Centre-Val de Loire
+2023-04-01,32,Spring,période 26,Week-end,42331.653327,378.5416237098066,Hauts-de-France
+2023-04-02,24,Spring,période 26,Week-end,23424.201691,319.2151734633162,Centre-Val de Loire
+2023-04-02,32,Spring,période 26,Week-end,45314.40627,383.32342498735005,Hauts-de-France
+2023-04-03,24,Spring,période 26,Normal Day,23746.597337,336.0071510099547,Centre-Val de Loire
+2023-04-03,32,Spring,période 26,Normal Day,45728.078021,395.2499105133913,Hauts-de-France
+2023-04-04,24,Spring,période 26,Normal Day,24203.946617,345.7049915315532,Centre-Val de Loire
+2023-04-04,32,Spring,période 26,Normal Day,46467.176286,402.43760407693264,Hauts-de-France
+2023-04-05,24,Spring,période 26,Normal Day,24168.670058,343.8010925282083,Centre-Val de Loire
+2023-04-05,32,Spring,période 26,Normal Day,46427.745388,407.55360746634915,Hauts-de-France
+2023-04-06,24,Spring,période 26,Normal Day,22759.927588,334.4044877060703,Centre-Val de Loire
+2023-04-06,32,Spring,période 26,Normal Day,43953.375626,391.70798451974724,Hauts-de-France
+2023-04-07,24,Spring,période 26,Normal Day,22081.356516,329.5143514750808,Centre-Val de Loire
+2023-04-07,32,Spring,période 26,Normal Day,42700.544275,384.0312635552291,Hauts-de-France
+2023-04-08,24,Spring,période 26,Week-end,21908.073273,323.05473980508714,Centre-Val de Loire
+2023-04-08,32,Spring,période 26,Week-end,42491.413314,384.4432578433223,Hauts-de-France
+2023-04-09,24,Spring,période 26,Week-end,20278.274397,300.2435237000174,Centre-Val de Loire
+2023-04-09,32,Spring,période 26,Week-end,39469.729475,358.550010072971,Hauts-de-France
+2023-04-10,24,Spring,période 26,National Holidays,19770.87921,288.1967253563613,Centre-Val de Loire
+2023-04-10,32,Spring,période 26,National Holidays,38679.725081,342.0205525176879,Hauts-de-France
+2023-04-11,24,Spring,période 26,Normal Day,20017.871809,305.3335629977296,Centre-Val de Loire
+2023-04-11,32,Spring,période 26,Normal Day,39197.23569,362.61162642127675,Hauts-de-France
+2023-04-12,24,Spring,période 26,Normal Day,20762.860368,310.4378921029863,Centre-Val de Loire
+2023-04-12,32,Spring,période 26,Normal Day,40623.834296,371.41002928787407,Hauts-de-France
+2023-04-13,24,Spring,période 26,Normal Day,22125.250782,325.64594843524225,Centre-Val de Loire
+2023-04-13,32,Spring,période 26,Normal Day,43012.600193,384.30330073430065,Hauts-de-France
+2023-04-14,24,Spring,période 26,Normal Day,23048.678126,335.4024931352712,Centre-Val de Loire
+2023-04-14,32,Spring,période 26,Normal Day,44728.105676,392.2708921326171,Hauts-de-France
+2023-04-15,24,Spring,période 6,Week-end,22489.823404,322.4762126282431,Centre-Val de Loire
+2023-04-15,32,Spring,période 6,Week-end,43770.74837,377.4130388065568,Hauts-de-France
+2023-04-16,24,Spring,période 6,Week-end,21691.509576,306.9250874285041,Centre-Val de Loire
+2023-04-16,32,Spring,période 6,Week-end,42307.55483,361.047578542205,Hauts-de-France
+2023-04-17,24,Spring,période 6,School Holidays,20924.406754,309.5316212547863,Centre-Val de Loire
+2023-04-17,32,Spring,période 6,School Holidays,41009.642114,365.4463887538775,Hauts-de-France
+2023-04-18,24,Spring,période 6,School Holidays,19917.59962,303.9843697270617,Centre-Val de Loire
+2023-04-18,32,Spring,période 6,School Holidays,39287.619672,361.7864815281558,Hauts-de-France
+2023-04-19,24,Spring,période 6,School Holidays,18661.99779,290.47556074541467,Centre-Val de Loire
+2023-04-19,32,Spring,période 6,School Holidays,37056.579502,347.3928063353242,Hauts-de-France
+2023-04-20,24,Spring,période 6,School Holidays,18610.063243,291.9137074090285,Centre-Val de Loire
+2023-04-20,32,Spring,période 6,School Holidays,37114.902192,357.16741596603856,Hauts-de-France
+2023-04-21,24,Spring,période 6,School Holidays,19350.701033,302.12589425580063,Centre-Val de Loire
+2023-04-21,32,Spring,période 6,School Holidays,38540.431024,366.94276692706825,Hauts-de-France
+2023-04-22,24,Spring,période 6,Week-end,19012.011662,288.0378649809135,Centre-Val de Loire
+2023-04-22,32,Spring,période 6,Week-end,38039.856759,357.0841356585717,Hauts-de-France
+2023-04-23,24,Spring,période 6,Week-end,19038.917033,278.25165129670336,Centre-Val de Loire
+2023-04-23,32,Spring,période 6,Week-end,38097.231154,337.37643367909396,Hauts-de-France
+2023-04-24,24,Spring,période 6,School Holidays,19088.136846,290.82834520617524,Centre-Val de Loire
+2023-04-24,32,Spring,période 6,School Holidays,38240.252953,352.19853993145165,Hauts-de-France
+2023-04-25,24,Spring,période 6,School Holidays,19189.710747,297.9011673644405,Centre-Val de Loire
+2023-04-25,32,Spring,période 6,School Holidays,38460.464469,361.00120649240984,Hauts-de-France
+2023-04-26,24,Spring,période 6,School Holidays,19065.536381,295.6985562984314,Centre-Val de Loire
+2023-04-26,32,Spring,période 6,School Holidays,38296.896596,359.6402181615755,Hauts-de-France
+2023-04-27,24,Spring,période 6,School Holidays,17412.836579,282.65539301790034,Centre-Val de Loire
+2023-04-27,32,Spring,période 6,School Holidays,35271.561572,341.5222826356743,Hauts-de-France
+2023-04-28,24,Spring,période 6,School Holidays,16049.57188,270.6245104102183,Centre-Val de Loire
+2023-04-28,32,Spring,période 6,School Holidays,32699.750162,328.498716994838,Hauts-de-France
+2023-04-29,24,Spring,période 6,Week-end,16005.342104,263.79737756443467,Centre-Val de Loire
+2023-04-29,32,Spring,période 6,Week-end,32649.459597,323.33837820709766,Hauts-de-France
+2023-04-30,24,Spring,période 6,Week-end,15929.726802000001,257.3033464426446,Centre-Val de Loire
+2023-04-30,32,Spring,période 6,Week-end,32411.91274,316.9132031999187,Hauts-de-France
+2023-05-01,24,Spring,période 6,National Holidays,16100.278037,251.36958344969756,Centre-Val de Loire
+2023-05-01,32,Spring,période 6,National Holidays,32751.805516,306.31326071102654,Hauts-de-France
+2023-05-02,24,Spring,période 27,Normal Day,15943.502183999999,266.3778682350766,Centre-Val de Loire
+2023-05-02,32,Spring,période 27,Normal Day,32417.213322,324.4183966417379,Hauts-de-France
+2023-05-03,24,Spring,période 27,Normal Day,15361.764145,262.2615621117577,Centre-Val de Loire
+2023-05-03,32,Spring,période 27,Normal Day,31389.473016,321.01232878134624,Hauts-de-France
+2023-05-04,24,Spring,période 27,Normal Day,14606.416693,257.7556937643264,Centre-Val de Loire
+2023-05-04,32,Spring,période 27,Normal Day,29926.641521999998,315.12935776766864,Hauts-de-France
+2023-05-05,24,Spring,période 27,Normal Day,14457.985141,258.57390479258277,Centre-Val de Loire
+2023-05-05,32,Spring,période 27,Normal Day,29644.417459,316.40413282232424,Hauts-de-France
+2023-05-06,24,Spring,période 27,Week-end,14540.588682,254.20814168233963,Centre-Val de Loire
+2023-05-06,32,Spring,période 27,Week-end,29844.11545,309.0946925414861,Hauts-de-France
+2023-05-07,24,Spring,période 27,Week-end,14360.487457,240.87598670440343,Centre-Val de Loire
+2023-05-07,32,Spring,période 27,Week-end,29488.915661,299.65984342868677,Hauts-de-France
+2023-05-08,24,Spring,période 27,National Holidays,14641.971281,240.10980250832085,Centre-Val de Loire
+2023-05-08,32,Spring,période 27,National Holidays,30046.389259,294.5682489872147,Hauts-de-France
+2023-05-09,24,Spring,période 27,Normal Day,14787.163884,256.4005221809027,Centre-Val de Loire
+2023-05-09,32,Spring,période 27,Normal Day,30354.604832,312.16056431496173,Hauts-de-France
+2023-05-10,24,Spring,période 27,Normal Day,15245.614925,260.73193155722976,Centre-Val de Loire
+2023-05-10,32,Spring,période 27,Normal Day,31167.823638,314.12204564805984,Hauts-de-France
+2023-05-11,24,Spring,période 27,Normal Day,15325.500469,264.19170591445925,Centre-Val de Loire
+2023-05-11,32,Spring,période 27,Normal Day,31255.482039,318.18432206799577,Hauts-de-France
+2023-05-12,24,Spring,période 27,Normal Day,15767.536662,268.2457795827334,Centre-Val de Loire
+2023-05-12,32,Spring,période 27,Normal Day,32142.700264,322.372612648567,Hauts-de-France
+2023-05-13,24,Spring,période 27,Week-end,15820.044872,259.8907283674838,Centre-Val de Loire
+2023-05-13,32,Spring,période 27,Week-end,32181.819545,311.1590589502968,Hauts-de-France
+2023-05-14,24,Spring,période 27,Week-end,15624.435688,250.18692038956874,Centre-Val de Loire
+2023-05-14,32,Spring,période 27,Week-end,31794.705356,299.4957576274184,Hauts-de-France
+2023-05-15,24,Spring,période 27,Normal Day,15407.227165,257.8767842719685,Centre-Val de Loire
+2023-05-15,32,Spring,période 27,Normal Day,31395.625123,307.9726387880725,Hauts-de-France
+2023-05-16,24,Spring,période 27,Normal Day,15772.916898,268.1120037837406,Centre-Val de Loire
+2023-05-16,32,Spring,période 27,Normal Day,31971.594803,318.06066596216425,Hauts-de-France
+2023-05-17,24,Spring,période 27,Normal Day,15848.116363,268.50935687696676,Centre-Val de Loire
+2023-05-17,32,Spring,période 27,Normal Day,32029.589867,317.54398635591286,Hauts-de-France
+2023-05-18,24,Spring,période 27,Normal Day,15503.013001,257.81674276230706,Centre-Val de Loire
+2023-05-18,32,Spring,période 27,Normal Day,31350.387135,300.331655613818,Hauts-de-France
+2023-05-19,24,Spring,période 27,Normal Day,15193.253046,264.22739480264113,Centre-Val de Loire
+2023-05-19,32,Spring,période 27,Normal Day,30665.031077,307.02428664302073,Hauts-de-France
+2023-05-20,24,Spring,période 27,Week-end,14806.582467,258.894962872731,Centre-Val de Loire
+2023-05-20,32,Spring,période 27,Week-end,29910.495271,301.0202308434141,Hauts-de-France
+2023-05-21,24,Spring,période 27,Week-end,14536.701126,249.5005548127271,Centre-Val de Loire
+2023-05-21,32,Spring,période 27,Week-end,29455.928823,287.8387871037513,Hauts-de-France
+2023-05-22,24,Spring,période 27,Normal Day,14064.690836,252.0252961282352,Centre-Val de Loire
+2023-05-22,32,Spring,période 27,Normal Day,28515.080459,291.5186826244445,Hauts-de-France
+2023-05-23,24,Spring,période 27,Normal Day,13876.73363,256.3428445682779,Centre-Val de Loire
+2023-05-23,32,Spring,période 27,Normal Day,28122.625268,297.6306134948185,Hauts-de-France
+2023-05-24,24,Spring,période 27,Normal Day,14082.579801,260.1148414457173,Centre-Val de Loire
+2023-05-24,32,Spring,période 27,Normal Day,28502.813265,301.04460313098747,Hauts-de-France
+2023-05-25,24,Spring,période 27,Normal Day,13896.965062,262.02902799271993,Centre-Val de Loire
+2023-05-25,32,Spring,période 27,Normal Day,28096.437933,297.76676643130605,Hauts-de-France
+2023-05-26,24,Spring,période 27,Normal Day,13765.3042,265.59695424162754,Centre-Val de Loire
+2023-05-26,32,Spring,période 27,Normal Day,27846.47813,299.2467004802622,Hauts-de-France
+2023-05-27,24,Spring,période 27,Week-end,13650.815724,263.3962097015663,Centre-Val de Loire
+2023-05-27,32,Spring,période 27,Week-end,27642.314525,296.1893082838688,Hauts-de-France
+2023-05-28,24,Spring,période 27,Week-end,13274.269844,255.4320339354103,Centre-Val de Loire
+2023-05-28,32,Spring,période 27,Week-end,26894.657103,284.83630536624565,Hauts-de-France
+2023-05-29,24,Spring,période 27,National Holidays,13493.063608,253.69903851190608,Centre-Val de Loire
+2023-05-29,32,Spring,période 27,National Holidays,27378.138504,283.2045261822788,Hauts-de-France
+2023-05-30,24,Spring,période 27,Normal Day,13450.83181,267.2767950432031,Centre-Val de Loire
+2023-05-30,32,Spring,période 27,Normal Day,27269.590507,297.5730499607374,Hauts-de-France
+2023-05-31,24,Spring,période 27,Normal Day,13522.229569,269.0285934973895,Centre-Val de Loire
+2023-05-31,32,Spring,période 27,Normal Day,27429.317648,299.90475948557594,Hauts-de-France
+2023-06-01,24,Spring,période 27,Normal Day,13348.399753,274.6766661554871,Centre-Val de Loire
+2023-06-01,32,Spring,période 27,Normal Day,26748.747775,298.6617561391706,Hauts-de-France
+2023-06-02,24,Spring,période 27,Normal Day,13381.839095,275.9295891625765,Centre-Val de Loire
+2023-06-02,32,Spring,période 27,Normal Day,26788.712002,300.1906355220183,Hauts-de-France
+2023-06-03,24,Spring,période 27,Week-end,13506.128725,273.5036138614604,Centre-Val de Loire
+2023-06-03,32,Spring,période 27,Week-end,27015.615583,296.0451785940537,Hauts-de-France
+2023-06-04,24,Spring,période 27,Week-end,13343.601322,261.7833328547261,Centre-Val de Loire
+2023-06-04,32,Spring,période 27,Week-end,26645.471749,281.35717636156716,Hauts-de-France
+2023-06-05,24,Spring,période 27,Normal Day,13217.439499,270.31734695571333,Centre-Val de Loire
+2023-06-05,32,Spring,période 27,Normal Day,26393.979991,289.40800540582705,Hauts-de-France
+2023-06-06,24,Spring,période 27,Normal Day,13210.160116,278.7338380388344,Centre-Val de Loire
+2023-06-06,32,Spring,période 27,Normal Day,26354.379221,296.82013757234006,Hauts-de-France
+2023-06-07,24,Spring,période 27,Normal Day,13382.047027999999,283.6293166930661,Centre-Val de Loire
+2023-06-07,32,Spring,période 27,Normal Day,26636.425298000002,297.5331769203287,Hauts-de-France
+2023-06-08,24,Spring,période 27,Normal Day,13276.698318,284.06370781570484,Centre-Val de Loire
+2023-06-08,32,Spring,période 27,Normal Day,26405.927602,298.8638235155692,Hauts-de-France
+2023-06-09,24,Spring,période 27,Normal Day,13339.051889,280.78150093044894,Centre-Val de Loire
+2023-06-09,32,Spring,période 27,Normal Day,26545.137091,300.94803983694874,Hauts-de-France
+2023-06-10,24,Spring,période 27,Week-end,13434.134226,265.3096037841257,Centre-Val de Loire
+2023-06-10,32,Spring,période 27,Week-end,26781.44619,295.7456259651746,Hauts-de-France
+2023-06-11,24,Spring,période 27,Week-end,13388.069405,252.22220573173254,Centre-Val de Loire
+2023-06-11,32,Spring,période 27,Week-end,26724.812523,286.58747694218545,Hauts-de-France
+2023-06-12,24,Spring,période 27,Normal Day,13230.067986,267.32270523689783,Centre-Val de Loire
+2023-06-12,32,Spring,période 27,Normal Day,26371.676161,293.0114375152406,Hauts-de-France
+2023-06-13,24,Spring,période 27,Normal Day,13217.175529,274.2188870013355,Centre-Val de Loire
+2023-06-13,32,Spring,période 27,Normal Day,26337.156512,298.5132420996495,Hauts-de-France
+2023-06-14,24,Spring,période 27,Normal Day,13398.517903,279.2402678379449,Centre-Val de Loire
+2023-06-14,32,Spring,période 27,Normal Day,26690.935931,302.2758833501055,Hauts-de-France
+2023-06-15,24,Spring,période 27,Normal Day,13252.14744,282.0529233178889,Centre-Val de Loire
+2023-06-15,32,Spring,période 27,Normal Day,26372.401245,303.69939627780974,Hauts-de-France
+2023-06-16,24,Spring,période 27,Normal Day,13334.404942,285.5910027993168,Centre-Val de Loire
+2023-06-16,32,Spring,période 27,Normal Day,26542.724020999998,309.39251977917394,Hauts-de-France
+2023-06-17,24,Spring,période 27,Week-end,13503.046662,277.0591180000855,Centre-Val de Loire
+2023-06-17,32,Spring,période 27,Week-end,26888.477826,299.05117798022724,Hauts-de-France
+2023-06-18,24,Spring,période 27,Week-end,13397.925071,253.4503811450185,Centre-Val de Loire
+2023-06-18,32,Spring,période 27,Week-end,26737.245735,279.3857821345297,Hauts-de-France
+2023-06-19,24,Spring,période 27,Normal Day,13322.24506,257.97866274293415,Centre-Val de Loire
+2023-06-19,32,Spring,période 27,Normal Day,26581.467809,287.8682143702546,Hauts-de-France
+2023-06-20,24,Spring,période 27,Normal Day,13344.985764000001,262.99449941219154,Centre-Val de Loire
+2023-06-20,32,Spring,période 27,Normal Day,26633.689718,293.34193259906596,Hauts-de-France
+2023-06-21,24,Summer,période 27,Normal Day,13534.308206,265.3575515768022,Centre-Val de Loire
+2023-06-21,32,Summer,période 27,Normal Day,27018.00189,295.7473430713518,Hauts-de-France
+2023-06-22,24,Summer,période 27,Normal Day,13417.222802,263.74631735523036,Centre-Val de Loire
+2023-06-22,32,Summer,période 27,Normal Day,26757.436282,291.60613979002306,Hauts-de-France
+2023-06-23,24,Summer,période 27,Normal Day,13427.155975,264.9713271085849,Centre-Val de Loire
+2023-06-23,32,Summer,période 27,Normal Day,26735.480163,292.5482729482751,Hauts-de-France
+2023-06-24,24,Summer,période 27,Week-end,13563.681034,262.429035809695,Centre-Val de Loire
+2023-06-24,32,Summer,période 27,Week-end,27020.435784,294.8912399251844,Hauts-de-France
+2023-06-25,24,Summer,période 27,Week-end,13607.401039,259.4520420001855,Centre-Val de Loire
+2023-06-25,32,Summer,période 27,Week-end,27130.364174,282.0720029062797,Hauts-de-France
+2023-06-26,24,Summer,période 27,Normal Day,13633.169851,271.63105123675643,Centre-Val de Loire
+2023-06-26,32,Summer,période 27,Normal Day,27172.882546,288.9552462771958,Hauts-de-France
+2023-06-27,24,Summer,période 27,Normal Day,13459.07683,283.35182108140435,Centre-Val de Loire
+2023-06-27,32,Summer,période 27,Normal Day,26797.601028,297.6257879043996,Hauts-de-France
+2023-06-28,24,Summer,période 27,Normal Day,13606.609249,289.6696349637019,Centre-Val de Loire
+2023-06-28,32,Summer,période 27,Normal Day,27085.314836999998,302.651314958539,Hauts-de-France
+2023-06-29,24,Summer,période 27,Normal Day,13602.729831999999,293.78263930191963,Centre-Val de Loire
+2023-06-29,32,Summer,période 27,Normal Day,27066.303799,308.01790340366495,Hauts-de-France
+2023-06-30,24,Summer,période 27,Normal Day,13388.338229,284.64797265494116,Centre-Val de Loire
+2023-06-30,32,Summer,période 27,Normal Day,26609.174813,298.87233407155304,Hauts-de-France
+2023-07-01,24,Summer,période 27,Week-end,13140.373791,269.7431878684927,Centre-Val de Loire
+2023-07-01,32,Summer,période 27,Week-end,25579.299274,274.19982270064435,Hauts-de-France
+2023-07-02,24,Summer,période 27,Week-end,13100.264823,264.00409782937453,Centre-Val de Loire
+2023-07-02,32,Summer,période 27,Week-end,25498.467437,264.87926809550163,Hauts-de-France
+2023-07-03,24,Summer,période 27,Normal Day,13091.234611,275.71099508205856,Centre-Val de Loire
+2023-07-03,32,Summer,période 27,Normal Day,25457.134648,276.40681731433364,Hauts-de-France
+2023-07-04,24,Summer,période 27,Normal Day,13148.721389,284.9755467163047,Centre-Val de Loire
+2023-07-04,32,Summer,période 27,Normal Day,25502.72208,284.59087067834196,Hauts-de-France
+2023-07-05,24,Summer,période 27,Normal Day,13230.139376,281.39716317218415,Centre-Val de Loire
+2023-07-05,32,Summer,période 27,Normal Day,25643.968813,282.1138611111485,Hauts-de-France
+2023-07-06,24,Summer,période 27,Normal Day,13243.269849,296.2136331782664,Centre-Val de Loire
+2023-07-06,32,Summer,période 27,Normal Day,25631.411064,292.89944152570047,Hauts-de-France
+2023-07-07,24,Summer,période 27,Normal Day,13472.395439,303.92123099740274,Centre-Val de Loire
+2023-07-07,32,Summer,période 27,Normal Day,26059.466716,296.23027003760643,Hauts-de-France
+2023-07-08,24,Summer,période 7,Week-end,13651.590126,292.1584595329852,Centre-Val de Loire
+2023-07-08,32,Summer,période 7,Week-end,26471.323061,295.0000301865851,Hauts-de-France
+2023-07-09,24,Summer,période 7,Week-end,13609.03565,277.2922009855759,Centre-Val de Loire
+2023-07-09,32,Summer,période 7,Week-end,26470.400048,278.0002240883369,Hauts-de-France
+2023-07-10,24,Summer,période 7,School Holidays,13839.78059,293.75029031030004,Centre-Val de Loire
+2023-07-10,32,Summer,période 7,School Holidays,26853.89489,293.65099758367467,Hauts-de-France
+2023-07-11,24,Summer,période 7,School Holidays,14004.325895,309.2324087169146,Centre-Val de Loire
+2023-07-11,32,Summer,période 7,School Holidays,27138.743551,301.6611800966857,Hauts-de-France
+2023-07-12,24,Summer,période 7,School Holidays,13610.0844,304.52116061083905,Centre-Val de Loire
+2023-07-12,32,Summer,période 7,School Holidays,26379.70941,295.4863669711622,Hauts-de-France
+2023-07-13,24,Summer,période 7,School Holidays,13318.381693,307.4818912341866,Centre-Val de Loire
+2023-07-13,32,Summer,période 7,School Holidays,25736.770311,295.083645728138,Hauts-de-France
+2023-07-14,24,Summer,période 7,National Holidays,13160.503451,293.80907742110634,Centre-Val de Loire
+2023-07-14,32,Summer,période 7,National Holidays,25456.835211,283.54246893366997,Hauts-de-France
+2023-07-15,24,Summer,période 7,Week-end,13204.193387,285.4195708374302,Centre-Val de Loire
+2023-07-15,32,Summer,période 7,Week-end,25588.877341,284.17560910688235,Hauts-de-France
+2023-07-16,24,Summer,période 7,Week-end,13055.564254,274.3818279641909,Centre-Val de Loire
+2023-07-16,32,Summer,période 7,Week-end,25290.023362,274.6711411365041,Hauts-de-France
+2023-07-17,24,Summer,période 7,School Holidays,13323.694794000001,297.7118955400191,Centre-Val de Loire
+2023-07-17,32,Summer,période 7,School Holidays,25764.199403,287.4181530566522,Hauts-de-France
+2023-07-18,24,Summer,période 7,School Holidays,13575.232693,313.36175669657524,Centre-Val de Loire
+2023-07-18,32,Summer,période 7,School Holidays,26281.117817,308.18928393063254,Hauts-de-France
+2023-07-19,24,Summer,période 7,School Holidays,13590.584637,308.6764062040511,Centre-Val de Loire
+2023-07-19,32,Summer,période 7,School Holidays,26322.81799,303.31542063177375,Hauts-de-France
+2023-07-20,24,Summer,période 7,School Holidays,13453.58782,312.7812501545076,Centre-Val de Loire
+2023-07-20,32,Summer,période 7,School Holidays,26021.821643,304.37742657671606,Hauts-de-France
+2023-07-21,24,Summer,période 7,School Holidays,13348.708125,305.0659730266565,Centre-Val de Loire
+2023-07-21,32,Summer,période 7,School Holidays,25834.611251,299.91881853707787,Hauts-de-France
+2023-07-22,24,Summer,période 7,Week-end,13184.768672,291.26836818976733,Centre-Val de Loire
+2023-07-22,32,Summer,période 7,Week-end,25523.644593,290.781237190776,Hauts-de-France
+2023-07-23,24,Summer,période 7,Week-end,13166.509875,273.40660049789585,Centre-Val de Loire
+2023-07-23,32,Summer,période 7,Week-end,25539.260525,277.99039252157775,Hauts-de-France
+2023-07-24,24,Summer,période 7,School Holidays,13170.761742,277.14877147257636,Centre-Val de Loire
+2023-07-24,32,Summer,période 7,School Holidays,25553.295464,282.6244406532636,Hauts-de-France
+2023-07-25,24,Summer,période 7,School Holidays,12962.674712,279.72419544253614,Centre-Val de Loire
+2023-07-25,32,Summer,période 7,School Holidays,25104.681292,282.9996008787382,Hauts-de-France
+2023-07-26,24,Summer,période 7,School Holidays,12845.297955,283.7130294344736,Centre-Val de Loire
+2023-07-26,32,Summer,période 7,School Holidays,24846.211452,284.13592191235944,Hauts-de-France
+2023-07-27,24,Summer,période 7,School Holidays,12952.866912,284.56336844796596,Centre-Val de Loire
+2023-07-27,32,Summer,période 7,School Holidays,25078.818498,290.59992641270003,Hauts-de-France
+2023-07-28,24,Summer,période 7,School Holidays,13093.421821,276.21969729261826,Centre-Val de Loire
+2023-07-28,32,Summer,période 7,School Holidays,25355.291111,287.1147793569536,Hauts-de-France
+2023-07-29,24,Summer,période 7,Week-end,13039.623865,259.3153304309028,Centre-Val de Loire
+2023-07-29,32,Summer,période 7,Week-end,25271.13772,276.5830480580896,Hauts-de-France
+2023-07-30,24,Summer,période 7,Week-end,12804.628816,246.97957545238506,Centre-Val de Loire
+2023-07-30,32,Summer,période 7,Week-end,24838.740706,264.031813003616,Hauts-de-France
+2023-07-31,24,Summer,période 7,School Holidays,12863.517392,254.6492551955366,Centre-Val de Loire
+2023-07-31,32,Summer,période 7,School Holidays,24931.152359,272.4997320345142,Hauts-de-France
+2023-08-01,24,Summer,période 7,School Holidays,12813.995173,259.6465962246592,Centre-Val de Loire
+2023-08-01,32,Summer,période 7,School Holidays,24802.84802,277.284033910081,Hauts-de-France
+2023-08-02,24,Summer,période 7,School Holidays,12987.924025,257.7156274522722,Centre-Val de Loire
+2023-08-02,32,Summer,période 7,School Holidays,25141.581169,276.4932214087472,Hauts-de-France
+2023-08-03,24,Summer,période 7,School Holidays,12907.487823,254.0768047028258,Centre-Val de Loire
+2023-08-03,32,Summer,période 7,School Holidays,24970.894755,274.8224434871162,Hauts-de-France
+2023-08-04,24,Summer,période 7,School Holidays,12747.654253,252.38586747534146,Centre-Val de Loire
+2023-08-04,32,Summer,période 7,School Holidays,24641.340693,272.5853869258833,Hauts-de-France
+2023-08-05,24,Summer,période 7,Week-end,12740.385284,247.24964552469845,Centre-Val de Loire
+2023-08-05,32,Summer,période 7,Week-end,24625.20685,267.1221559761678,Hauts-de-France
+2023-08-06,24,Summer,période 7,Week-end,12588.842848,238.50778082026324,Centre-Val de Loire
+2023-08-06,32,Summer,période 7,Week-end,24341.926772,260.1790985323321,Hauts-de-France
+2023-08-07,24,Summer,période 7,School Holidays,12576.811183,249.81878161159264,Centre-Val de Loire
+2023-08-07,32,Summer,période 7,School Holidays,24279.896299,268.622478734208,Hauts-de-France
+2023-08-08,24,Summer,période 7,School Holidays,12615.413655,259.7636350154333,Centre-Val de Loire
+2023-08-08,32,Summer,période 7,School Holidays,24365.789635,277.5125942641683,Hauts-de-France
+2023-08-09,24,Summer,période 7,School Holidays,12612.714381,263.31900363283023,Centre-Val de Loire
+2023-08-09,32,Summer,période 7,School Holidays,24380.811411,281.8387519901136,Hauts-de-France
+2023-08-10,24,Summer,période 7,School Holidays,12718.069048,266.83463473260815,Centre-Val de Loire
+2023-08-10,32,Summer,période 7,School Holidays,24580.3938,286.6811126434241,Hauts-de-France
+2023-08-11,24,Summer,période 7,School Holidays,12941.355921,270.31326631503924,Centre-Val de Loire
+2023-08-11,32,Summer,période 7,School Holidays,25033.499209,286.1790353976085,Hauts-de-France
+2023-08-12,24,Summer,période 7,Week-end,12866.76704,260.56465959942904,Centre-Val de Loire
+2023-08-12,32,Summer,période 7,Week-end,24924.455484,278.9225204763346,Hauts-de-France
+2023-08-13,24,Summer,période 7,Week-end,12685.25386,249.28699028549596,Centre-Val de Loire
+2023-08-13,32,Summer,période 7,Week-end,24589.769374,268.3183515421976,Hauts-de-France
+2023-08-14,24,Summer,période 7,School Holidays,12785.222715,253.649184059293,Centre-Val de Loire
+2023-08-14,32,Summer,période 7,School Holidays,24754.814096,273.9699274204272,Hauts-de-France
+2023-08-15,24,Summer,période 7,National Holidays,12748.9096,251.50675790522476,Centre-Val de Loire
+2023-08-15,32,Summer,période 7,National Holidays,24711.725943,271.2429091811494,Hauts-de-France
+2023-08-16,24,Summer,période 7,School Holidays,12950.443071,264.8960210245122,Centre-Val de Loire
+2023-08-16,32,Summer,période 7,School Holidays,25089.856128,287.0921920527612,Hauts-de-France
+2023-08-17,24,Summer,période 7,School Holidays,13117.370241,273.64368371855323,Centre-Val de Loire
+2023-08-17,32,Summer,période 7,School Holidays,25381.611602,286.8201972170183,Hauts-de-France
+2023-08-18,24,Summer,période 7,School Holidays,13423.105983,281.6461129362388,Centre-Val de Loire
+2023-08-18,32,Summer,période 7,School Holidays,25946.201671,294.06559318375866,Hauts-de-France
+2023-08-19,24,Summer,période 7,Week-end,13536.871772,271.29104442240634,Centre-Val de Loire
+2023-08-19,32,Summer,période 7,Week-end,26234.22402,290.3152796022933,Hauts-de-France
+2023-08-20,24,Summer,période 7,Week-end,13633.615144,261.8760822880536,Centre-Val de Loire
+2023-08-20,32,Summer,période 7,Week-end,26448.069512,285.911946831597,Hauts-de-France
+2023-08-21,24,Summer,période 7,School Holidays,14063.333704,275.90109382237694,Centre-Val de Loire
+2023-08-21,32,Summer,période 7,School Holidays,27268.353087,294.4633640887115,Hauts-de-France
+2023-08-22,24,Summer,période 7,School Holidays,14366.319455,290.9544360169033,Centre-Val de Loire
+2023-08-22,32,Summer,période 7,School Holidays,27881.12276,307.8208933905113,Hauts-de-France
+2023-08-23,24,Summer,période 7,School Holidays,14597.709182,290.88667006607284,Centre-Val de Loire
+2023-08-23,32,Summer,période 7,School Holidays,28342.102302,312.25099628458923,Hauts-de-France
+2023-08-24,24,Summer,période 7,School Holidays,14576.757882,283.5478023842375,Centre-Val de Loire
+2023-08-24,32,Summer,période 7,School Holidays,28321.456157,304.91941656413013,Hauts-de-France
+2023-08-25,24,Summer,période 7,School Holidays,13918.410338,270.13967116694204,Centre-Val de Loire
+2023-08-25,32,Summer,période 7,School Holidays,27105.076319,294.98640253474946,Hauts-de-France
+2023-08-26,24,Summer,période 7,Week-end,13356.471144,257.45850576054016,Centre-Val de Loire
+2023-08-26,32,Summer,période 7,Week-end,25989.549457,279.5615982605323,Hauts-de-France
+2023-08-27,24,Summer,période 7,Week-end,12989.195441,240.4810811144179,Centre-Val de Loire
+2023-08-27,32,Summer,période 7,Week-end,25243.231945,262.9178141366687,Hauts-de-France
+2023-08-28,24,Summer,période 7,School Holidays,12898.245895,248.1456488994248,Centre-Val de Loire
+2023-08-28,32,Summer,période 7,School Holidays,25170.767238,273.6219358001575,Hauts-de-France
+2023-08-29,24,Summer,période 7,School Holidays,12939.066709,255.40169109863774,Centre-Val de Loire
+2023-08-29,32,Summer,période 7,School Holidays,25239.16033,283.96198555409643,Hauts-de-France
+2023-08-30,24,Summer,période 7,School Holidays,13002.843678,256.9755455393397,Centre-Val de Loire
+2023-08-30,32,Summer,période 7,School Holidays,25364.942268,282.2465699137249,Hauts-de-France
+2023-08-31,24,Summer,période 7,School Holidays,13110.678557,256.35338716901407,Centre-Val de Loire
+2023-08-31,32,Summer,période 7,School Holidays,25579.546334,285.38837076107933,Hauts-de-France
+2023-09-01,24,Summer,période 7,School Holidays,13186.300457,256.5393419217575,Centre-Val de Loire
+2023-09-01,32,Summer,période 7,School Holidays,25832.88252,290.7845232868748,Hauts-de-France
+2023-09-02,24,Summer,période 7,Week-end,13192.399532,250.72679947025102,Centre-Val de Loire
+2023-09-02,32,Summer,période 7,Week-end,25889.719189,287.65301908779566,Hauts-de-France
+2023-09-03,24,Summer,période 7,Week-end,13281.953677,242.95473584764522,Centre-Val de Loire
+2023-09-03,32,Summer,période 7,Week-end,26091.240012,274.55576353598565,Hauts-de-France
+2023-09-04,24,Summer,période 28,Normal Day,13386.946768,256.6801915008071,Centre-Val de Loire
+2023-09-04,32,Summer,période 28,Normal Day,26361.161451,285.8120221766728,Hauts-de-France
+2023-09-05,24,Summer,période 28,Normal Day,13442.469121,268.9992673578322,Centre-Val de Loire
+2023-09-05,32,Summer,période 28,Normal Day,26508.776465,299.25700120349876,Hauts-de-France
+2023-09-06,24,Summer,période 28,Normal Day,13681.110734,274.3352611396822,Centre-Val de Loire
+2023-09-06,32,Summer,période 28,Normal Day,27010.773651,307.40177277468604,Hauts-de-France
+2023-09-07,24,Summer,période 28,Normal Day,13529.809467,277.8538762709672,Centre-Val de Loire
+2023-09-07,32,Summer,période 28,Normal Day,26767.170558,310.40702147255587,Hauts-de-France
+2023-09-08,24,Summer,période 28,Normal Day,13674.326677000001,280.30255144975183,Centre-Val de Loire
+2023-09-08,32,Summer,période 28,Normal Day,27061.399889,316.5880579000176,Hauts-de-France
+2023-09-09,24,Summer,période 28,Week-end,13722.099594,270.28629460268866,Centre-Val de Loire
+2023-09-09,32,Summer,période 28,Week-end,27194.012879,305.21845253050554,Hauts-de-France
+2023-09-10,24,Summer,période 28,Week-end,13719.664181,258.11441245653504,Centre-Val de Loire
+2023-09-10,32,Summer,période 28,Week-end,27212.803027,290.7817381777973,Hauts-de-France
+2023-09-11,24,Summer,période 28,Normal Day,13372.801937,262.5788415526411,Centre-Val de Loire
+2023-09-11,32,Summer,période 28,Normal Day,26511.386632,296.2385351427205,Hauts-de-France
+2023-09-12,24,Summer,période 28,Normal Day,13158.374561,264.1832902979571,Centre-Val de Loire
+2023-09-12,32,Summer,période 28,Normal Day,26077.39977,298.1060261210565,Hauts-de-France
+2023-09-13,24,Summer,période 28,Normal Day,13187.871212,259.97315237229265,Centre-Val de Loire
+2023-09-13,32,Summer,période 28,Normal Day,26122.799623,293.23531925537964,Hauts-de-France
+2023-09-14,24,Summer,période 28,Normal Day,13045.813049,261.4024627973202,Centre-Val de Loire
+2023-09-14,32,Summer,période 28,Normal Day,25811.468529,299.6289255810644,Hauts-de-France
+2023-09-15,24,Summer,période 28,Normal Day,13122.767839,263.6577972032495,Centre-Val de Loire
+2023-09-15,32,Summer,période 28,Normal Day,25954.740296,298.6615091835258,Hauts-de-France
+2023-09-16,24,Summer,période 28,Week-end,13236.950375,256.6955333282386,Centre-Val de Loire
+2023-09-16,32,Summer,période 28,Week-end,26208.494154,292.52873531512256,Hauts-de-France
+2023-09-17,24,Summer,période 28,Week-end,13295.384205,246.49459843396494,Centre-Val de Loire
+2023-09-17,32,Summer,période 28,Week-end,26363.774011999998,283.96468672206413,Hauts-de-France
+2023-09-18,24,Summer,période 28,Normal Day,13105.522432,251.44297247769578,Centre-Val de Loire
+2023-09-18,32,Summer,période 28,Normal Day,25963.5905,285.9794977761414,Hauts-de-France
+2023-09-19,24,Summer,période 28,Normal Day,12953.059285,256.1100976509851,Centre-Val de Loire
+2023-09-19,32,Summer,période 28,Normal Day,25639.482611,291.4730876813436,Hauts-de-France
+2023-09-20,24,Summer,période 28,Normal Day,13138.761871,257.4249386386976,Centre-Val de Loire
+2023-09-20,32,Summer,période 28,Normal Day,26020.058486,292.11623484994317,Hauts-de-France
+2023-09-21,24,Summer,période 28,Normal Day,13168.042325,257.20145308246555,Centre-Val de Loire
+2023-09-21,32,Summer,période 28,Normal Day,26068.734055,300.5699870043286,Hauts-de-France
+2023-09-22,24,Summer,période 28,Normal Day,13260.884072,257.6020332108301,Centre-Val de Loire
+2023-09-22,32,Summer,période 28,Normal Day,26194.533463,297.63851877750994,Hauts-de-France
+2023-09-23,24,Autumn,période 28,Week-end,13502.275192,252.09918056145779,Centre-Val de Loire
+2023-09-23,32,Autumn,période 28,Week-end,26647.192236,289.82318720059635,Hauts-de-France
+2023-09-24,24,Autumn,période 28,Week-end,13522.930095,247.19783756715967,Centre-Val de Loire
+2023-09-24,32,Autumn,période 28,Week-end,26696.546256,281.4563548792777,Hauts-de-France
+2023-09-25,24,Autumn,période 28,Normal Day,13224.575856,254.87711916002345,Centre-Val de Loire
+2023-09-25,32,Autumn,période 28,Normal Day,26111.017198,291.7125422180651,Hauts-de-France
+2023-09-26,24,Autumn,période 28,Normal Day,13069.762513,258.02634045987804,Centre-Val de Loire
+2023-09-26,32,Autumn,période 28,Normal Day,25835.719274,295.3787128238869,Hauts-de-France
+2023-09-27,24,Autumn,période 28,Normal Day,13218.011345,259.1086997538911,Centre-Val de Loire
+2023-09-27,32,Autumn,période 28,Normal Day,26161.304284,298.62466922023026,Hauts-de-France
+2023-09-28,24,Autumn,période 28,Normal Day,13060.425363,260.46088884829817,Centre-Val de Loire
+2023-09-28,32,Autumn,période 28,Normal Day,25850.885542,295.95895245079333,Hauts-de-France
+2023-09-29,24,Autumn,période 28,Normal Day,13172.266558,260.6027555148428,Centre-Val de Loire
+2023-09-29,32,Autumn,période 28,Normal Day,26075.895518,296.2674506597551,Hauts-de-France
+2023-09-30,24,Autumn,période 28,Week-end,13324.844188000001,256.2903010357653,Centre-Val de Loire
+2023-09-30,32,Autumn,période 28,Week-end,26358.985657,296.5303045999824,Hauts-de-France
+2023-10-01,24,Autumn,période 28,Week-end,13520.387585,248.10608141377392,Centre-Val de Loire
+2023-10-01,32,Autumn,période 28,Week-end,27573.013367,294.57269366965966,Hauts-de-France
+2023-10-02,24,Autumn,période 28,Normal Day,13209.132368,257.61191478974723,Centre-Val de Loire
+2023-10-02,32,Autumn,période 28,Normal Day,26819.007519,301.7073773502546,Hauts-de-France
+2023-10-03,24,Autumn,période 28,Normal Day,13113.049383,260.6942423487168,Centre-Val de Loire
+2023-10-03,32,Autumn,période 28,Normal Day,26685.379208,305.6431254662745,Hauts-de-France
+2023-10-04,24,Autumn,période 28,Normal Day,13548.909229,265.94349620549616,Centre-Val de Loire
+2023-10-04,32,Autumn,période 28,Normal Day,27590.386279,311.38701553574504,Hauts-de-France
+2023-10-05,24,Autumn,période 28,Normal Day,13718.061021,270.4854288171375,Centre-Val de Loire
+2023-10-05,32,Autumn,période 28,Normal Day,27743.007848,318.00236001732736,Hauts-de-France
+2023-10-06,24,Autumn,période 28,Normal Day,14075.601893,274.8296277418134,Centre-Val de Loire
+2023-10-06,32,Autumn,période 28,Normal Day,27963.489584,319.1105545938627,Hauts-de-France
+2023-10-07,24,Autumn,période 28,Week-end,14312.491899,267.09957589248586,Centre-Val de Loire
+2023-10-07,32,Autumn,période 28,Week-end,28073.337931,313.68861677849475,Hauts-de-France
+2023-10-08,24,Autumn,période 28,Week-end,13992.986104,251.1535198978248,Centre-Val de Loire
+2023-10-08,32,Autumn,période 28,Week-end,27976.087601,302.621817822133,Hauts-de-France
+2023-10-09,24,Autumn,période 28,Normal Day,13459.414372,257.89307052424203,Centre-Val de Loire
+2023-10-09,32,Autumn,période 28,Normal Day,27381.834304,306.26759703021554,Hauts-de-France
+2023-10-10,24,Autumn,période 28,Normal Day,13333.093815,264.03622518298675,Centre-Val de Loire
+2023-10-10,32,Autumn,période 28,Normal Day,27166.662715,314.0460478420402,Hauts-de-France
+2023-10-11,24,Autumn,période 28,Normal Day,13477.704822,262.69029673500984,Centre-Val de Loire
+2023-10-11,32,Autumn,période 28,Normal Day,27601.16322,313.0001539026082,Hauts-de-France
+2023-10-12,24,Autumn,période 28,Normal Day,13322.621923,263.30970993133127,Centre-Val de Loire
+2023-10-12,32,Autumn,période 28,Normal Day,27733.512519,316.56033772310644,Hauts-de-France
+2023-10-13,24,Autumn,période 28,Normal Day,13405.03355,263.86592298123264,Centre-Val de Loire
+2023-10-13,32,Autumn,période 28,Normal Day,27863.833343,318.633231028608,Hauts-de-France
+2023-10-14,24,Autumn,période 28,Week-end,13764.561446,256.2036934127889,Centre-Val de Loire
+2023-10-14,32,Autumn,période 28,Week-end,29030.372801,320.93851000141166,Hauts-de-France
+2023-10-15,24,Autumn,période 28,Week-end,14597.35606,254.1785618049664,Centre-Val de Loire
+2023-10-15,32,Autumn,période 28,Week-end,31716.012537,325.83175109166575,Hauts-de-France
+2023-10-16,24,Autumn,période 28,Normal Day,16011.822005,279.68453316961103,Centre-Val de Loire
+2023-10-16,32,Autumn,période 28,Normal Day,35063.010114,354.0774565398089,Hauts-de-France
+2023-10-17,24,Autumn,période 28,Normal Day,16555.67589,289.82208362961063,Centre-Val de Loire
+2023-10-17,32,Autumn,période 28,Normal Day,35739.718475,363.5136826444587,Hauts-de-France
+2023-10-18,24,Autumn,période 28,Normal Day,15605.209188,276.34110526666217,Centre-Val de Loire
+2023-10-18,32,Autumn,période 28,Normal Day,35954.995281,360.9069540879423,Hauts-de-France
+2023-10-19,24,Autumn,période 28,Normal Day,14710.928932,270.9725182627427,Centre-Val de Loire
+2023-10-19,32,Autumn,période 28,Normal Day,31764.90619,338.44785657057577,Hauts-de-France
+2023-10-20,24,Autumn,période 28,Normal Day,14979.714077,272.61526311475933,Centre-Val de Loire
+2023-10-20,32,Autumn,période 28,Normal Day,31391.243425,339.784243546743,Hauts-de-France
+2023-10-21,24,Autumn,période 8,Week-end,16072.12901,270.0407683554788,Centre-Val de Loire
+2023-10-21,32,Autumn,période 8,Week-end,33926.29977,342.83097726261497,Hauts-de-France
+2023-10-22,24,Autumn,période 8,Week-end,16450.640403,263.76730357732174,Centre-Val de Loire
+2023-10-22,32,Autumn,période 8,Week-end,34061.695799,333.22487080331206,Hauts-de-France
+2023-10-23,24,Autumn,période 8,School Holidays,18150.057256,292.3087540256684,Centre-Val de Loire
+2023-10-23,32,Autumn,période 8,School Holidays,37146.719847,366.18759998222737,Hauts-de-France
+2023-10-24,24,Autumn,période 8,School Holidays,17334.794057,288.80772717770867,Centre-Val de Loire
+2023-10-24,32,Autumn,période 8,School Holidays,35686.705886,360.769596653465,Hauts-de-France
+2023-10-25,24,Autumn,période 8,School Holidays,17318.645999,289.76013288774124,Centre-Val de Loire
+2023-10-25,32,Autumn,période 8,School Holidays,36599.783858,371.7022004310658,Hauts-de-France
+2023-10-26,24,Autumn,période 8,School Holidays,17503.257525,292.75225457369714,Centre-Val de Loire
+2023-10-26,32,Autumn,période 8,School Holidays,36965.726696,373.1755274717793,Hauts-de-France
+2023-10-27,24,Autumn,période 8,School Holidays,18476.166984,301.64794482712887,Centre-Val de Loire
+2023-10-27,32,Autumn,période 8,School Holidays,36337.833293,368.5471107786033,Hauts-de-France
+2023-10-28,24,Autumn,période 8,Week-end,19234.941521,298.94134306131923,Centre-Val de Loire
+2023-10-28,32,Autumn,période 8,Week-end,36853.740226,360.83088386102236,Hauts-de-France
+2023-10-29,24,Autumn,période 8,Week-end,19128.579367,290.9551381587068,Centre-Val de Loire
+2023-10-29,32,Autumn,période 8,Week-end,38034.03021,359.1217434995293,Hauts-de-France
+2023-10-30,24,Autumn,période 8,School Holidays,19165.209905,298.5346415743186,Centre-Val de Loire
+2023-10-30,32,Autumn,période 8,School Holidays,38355.373567,371.22995215588855,Hauts-de-France
+2023-10-31,24,Autumn,période 8,School Holidays,19058.939398,303.2913065145243,Centre-Val de Loire
+2023-10-31,32,Autumn,période 8,School Holidays,38470.774857,377.7578047608661,Hauts-de-France
+2023-11-01,24,Autumn,période 8,National Holidays,19241.213897,291.3781470094409,Centre-Val de Loire
+2023-11-01,32,Autumn,période 8,National Holidays,38632.376093,358.37900786910103,Hauts-de-France
+2023-11-02,24,Autumn,période 8,School Holidays,20395.095728,311.57160467429173,Centre-Val de Loire
+2023-11-02,32,Autumn,période 8,School Holidays,40865.26337,381.2217363936414,Hauts-de-France
+2023-11-03,24,Autumn,période 8,School Holidays,22327.314106,334.6906596007868,Centre-Val de Loire
+2023-11-03,32,Autumn,période 8,School Holidays,44318.181237,404.2264586938548,Hauts-de-France
+2023-11-04,24,Autumn,période 8,Week-end,22674.792963,326.23239225718675,Centre-Val de Loire
+2023-11-04,32,Autumn,période 8,Week-end,44983.206554,398.89537683869304,Hauts-de-France
+2023-11-05,24,Autumn,période 8,Week-end,21822.096045,306.1725034944571,Centre-Val de Loire
+2023-11-05,32,Autumn,période 8,Week-end,43372.957971,376.0870577123394,Hauts-de-France
+2023-11-06,24,Autumn,période 29,Normal Day,21965.203767,321.49635925023057,Centre-Val de Loire
+2023-11-06,32,Autumn,période 29,Normal Day,43571.986715,393.81881440649335,Hauts-de-France
+2023-11-07,24,Autumn,période 29,Normal Day,22575.543831,334.97719117865194,Centre-Val de Loire
+2023-11-07,32,Autumn,période 29,Normal Day,44674.410577,409.81410734979744,Hauts-de-France
+2023-11-08,24,Autumn,période 29,Normal Day,23229.175981,340.3110609314386,Centre-Val de Loire
+2023-11-08,32,Autumn,période 29,Normal Day,45927.606675,418.5128525720711,Hauts-de-France
+2023-11-09,24,Autumn,période 29,Normal Day,23133.006452,343.3205885937387,Centre-Val de Loire
+2023-11-09,32,Autumn,période 29,Normal Day,45667.363233,421.8718659569993,Hauts-de-France
+2023-11-10,24,Autumn,période 29,Normal Day,23993.604497,351.99718653494904,Centre-Val de Loire
+2023-11-10,32,Autumn,période 29,Normal Day,47216.139916,431.67369631448065,Hauts-de-France
+2023-11-11,24,Autumn,période 29,National Holidays,24424.11776,341.4726769679742,Centre-Val de Loire
+2023-11-11,32,Autumn,période 29,National Holidays,47908.6184,417.4972641573196,Hauts-de-France
+2023-11-12,24,Autumn,période 29,Week-end,23610.282773,324.45408504405634,Centre-Val de Loire
+2023-11-12,32,Autumn,période 29,Week-end,46481.990617,401.54675087786205,Hauts-de-France
+2023-11-13,24,Autumn,période 29,Normal Day,20987.190041,313.87544824656703,Centre-Val de Loire
+2023-11-13,32,Autumn,période 29,Normal Day,41559.805964,391.16315298548545,Hauts-de-France
+2023-11-14,24,Autumn,période 29,Normal Day,20470.710983,317.5470396171438,Centre-Val de Loire
+2023-11-14,32,Autumn,période 29,Normal Day,40563.373222,393.4439414046521,Hauts-de-France
+2023-11-15,24,Autumn,période 29,Normal Day,21146.33558,322.1618087156739,Centre-Val de Loire
+2023-11-15,32,Autumn,période 29,Normal Day,41678.542281,393.92696588515633,Hauts-de-France
+2023-11-16,24,Autumn,période 29,Normal Day,22570.32537,338.78971821613237,Centre-Val de Loire
+2023-11-16,32,Autumn,période 29,Normal Day,44267.140845,417.91787670771464,Hauts-de-France
+2023-11-17,24,Autumn,période 29,Normal Day,22911.22949,341.89224380662006,Centre-Val de Loire
+2023-11-17,32,Autumn,période 29,Normal Day,44787.195647,417.89683079843394,Hauts-de-France
+2023-11-18,24,Autumn,période 29,Week-end,23287.640526,332.78393872681136,Centre-Val de Loire
+2023-11-18,32,Autumn,période 29,Week-end,45433.274495,408.8082954451936,Hauts-de-France
+2023-11-19,24,Autumn,période 29,Week-end,21622.350665,304.80647829727405,Centre-Val de Loire
+2023-11-19,32,Autumn,période 29,Week-end,42275.73263,374.0365671436325,Hauts-de-France
+2023-11-20,24,Autumn,période 29,Normal Day,22127.704011,323.91259087302615,Centre-Val de Loire
+2023-11-20,32,Autumn,période 29,Normal Day,43113.503091,396.5651645321993,Hauts-de-France
+2023-11-21,24,Autumn,période 29,Normal Day,22707.974501,335.04237012686445,Centre-Val de Loire
+2023-11-21,32,Autumn,période 29,Normal Day,44054.975278,406.51176830006057,Hauts-de-France
+2023-11-22,24,Autumn,période 29,Normal Day,24148.513508,350.293608396813,Centre-Val de Loire
+2023-11-22,32,Autumn,période 29,Normal Day,46503.677842,424.59651236929636,Hauts-de-France
+2023-11-23,24,Autumn,période 29,Normal Day,25644.701456,366.7407286450645,Centre-Val de Loire
+2023-11-23,32,Autumn,période 29,Normal Day,48941.795708,430.00633672477954,Hauts-de-France
+2023-11-24,24,Autumn,période 29,Normal Day,25329.746977,361.65316131868457,Centre-Val de Loire
+2023-11-24,32,Autumn,période 29,Normal Day,48446.624452000004,430.05597228553097,Hauts-de-France
+2023-11-25,24,Autumn,période 29,Week-end,28253.866129000002,380.8399738626751,Centre-Val de Loire
+2023-11-25,32,Autumn,période 29,Week-end,53480.049634,447.96065009018156,Hauts-de-France
+2023-11-26,24,Autumn,période 29,Week-end,30619.592185,390.91042398824567,Centre-Val de Loire
+2023-11-26,32,Autumn,période 29,Week-end,57635.269676,456.1154990864348,Hauts-de-France
+2023-11-27,24,Autumn,période 29,Normal Day,29948.091877,397.13206842780215,Centre-Val de Loire
+2023-11-27,32,Autumn,période 29,Normal Day,56386.216258,465.0831121321338,Hauts-de-France
+2023-11-28,24,Autumn,période 29,Normal Day,28656.987345,394.34883080933304,Centre-Val de Loire
+2023-11-28,32,Autumn,période 29,Normal Day,53949.451866,467.659383280465,Hauts-de-France
+2023-11-29,24,Autumn,période 29,Normal Day,30258.468101,387.288820848465,Centre-Val de Loire
+2023-11-29,32,Autumn,période 29,Normal Day,56801.497318,449.4573794131019,Hauts-de-France
+2023-11-30,24,Autumn,période 29,Normal Day,29532.449784,393.3067285314053,Centre-Val de Loire
+2023-11-30,32,Autumn,période 29,Normal Day,55503.40768,452.18391758536336,Hauts-de-France
+2023-12-01,24,Autumn,période 29,Normal Day,30099.444688,392.0380818671948,Centre-Val de Loire
+2023-12-01,32,Autumn,période 29,Normal Day,56491.476437,449.1042913353177,Hauts-de-France
+2023-12-02,24,Autumn,période 29,Week-end,33879.433149,434.5848620681277,Centre-Val de Loire
+2023-12-02,32,Autumn,période 29,Week-end,62987.847566,503.09480362599606,Hauts-de-France
+2023-12-03,24,Autumn,période 29,Week-end,35563.62543,439.6235653404639,Centre-Val de Loire
+2023-12-03,32,Autumn,période 29,Week-end,65967.869446,505.6371381773667,Hauts-de-France
+2023-12-04,24,Autumn,période 29,Normal Day,32748.445025,421.7328885122874,Centre-Val de Loire
+2023-12-04,32,Autumn,période 29,Normal Day,60931.927478,492.23405222015475,Hauts-de-France
+2023-12-05,24,Autumn,période 29,Normal Day,30594.034717,410.6687152575144,Centre-Val de Loire
+2023-12-05,32,Autumn,période 29,Normal Day,56920.015774,477.47134048836745,Hauts-de-France
+2023-12-06,24,Autumn,période 29,Normal Day,31223.496793,396.8040150793372,Centre-Val de Loire
+2023-12-06,32,Autumn,période 29,Normal Day,57908.606764,453.3204122957228,Hauts-de-France
+2023-12-07,24,Autumn,période 29,Normal Day,32477.432412000002,428.93360956441353,Centre-Val de Loire
+2023-12-07,32,Autumn,période 29,Normal Day,60156.098885,493.61662691950124,Hauts-de-France
+2023-12-08,24,Autumn,période 29,Normal Day,29101.179106,387.30540878939587,Centre-Val de Loire
+2023-12-08,32,Autumn,période 29,Normal Day,54295.547903,454.08557838270184,Hauts-de-France
+2023-12-09,24,Autumn,période 29,Week-end,28648.783065,380.29704654703187,Centre-Val de Loire
+2023-12-09,32,Autumn,période 29,Week-end,53500.652818,445.4238732359457,Hauts-de-France
+2023-12-10,24,Autumn,période 29,Week-end,26973.648607,356.01704897462946,Centre-Val de Loire
+2023-12-10,32,Autumn,période 29,Week-end,50534.721171,419.2621101907927,Hauts-de-France
+2023-12-11,24,Autumn,période 29,Normal Day,24842.299738,351.1755966824943,Centre-Val de Loire
+2023-12-11,32,Autumn,période 29,Normal Day,46840.200382,415.8047170471046,Hauts-de-France
+2023-12-12,24,Autumn,période 29,Normal Day,24205.500387,352.7829770110274,Centre-Val de Loire
+2023-12-12,32,Autumn,période 29,Normal Day,45711.253864,419.1263929687029,Hauts-de-France
+2023-12-13,24,Autumn,période 29,Normal Day,25955.077527,368.35144297194,Centre-Val de Loire
+2023-12-13,32,Autumn,période 29,Normal Day,48760.460573,435.3580838162844,Hauts-de-France
+2023-12-14,24,Autumn,période 29,Normal Day,27720.838412,385.0937947807331,Centre-Val de Loire
+2023-12-14,32,Autumn,période 29,Normal Day,51766.0378,450.9065236733996,Hauts-de-France
+2023-12-15,24,Autumn,période 29,Normal Day,27428.594458,373.3796158999333,Centre-Val de Loire
+2023-12-15,32,Autumn,période 29,Normal Day,51189.571028,440.98100055755214,Hauts-de-France
+2023-12-16,24,Autumn,période 29,Week-end,29451.697753,393.08617992396256,Centre-Val de Loire
+2023-12-16,32,Autumn,période 29,Week-end,54595.315825,449.5610826554322,Hauts-de-France
+2023-12-17,24,Autumn,période 29,Week-end,32033.110333,405.4302420379579,Centre-Val de Loire
+2023-12-17,32,Autumn,période 29,Week-end,59141.695149,462.4549990751862,Hauts-de-France
+2023-12-18,24,Autumn,période 29,Normal Day,32853.814389,406.4170326004262,Centre-Val de Loire
+2023-12-18,32,Autumn,période 29,Normal Day,60574.713039,452.50006174669875,Hauts-de-France
+2023-12-19,24,Autumn,période 29,Normal Day,32202.840100999998,425.9312484231714,Centre-Val de Loire
+2023-12-19,32,Autumn,période 29,Normal Day,59463.847835,484.7704162857752,Hauts-de-France
+2023-12-20,24,Autumn,période 29,Normal Day,30426.719901,395.631602646043,Centre-Val de Loire
+2023-12-20,32,Autumn,période 29,Normal Day,56506.478375,449.061744403384,Hauts-de-France
+2023-12-21,24,Autumn,période 29,Normal Day,28725.869263,398.2368145909144,Centre-Val de Loire
+2023-12-21,32,Autumn,période 29,Normal Day,53472.172601,455.79621245915206,Hauts-de-France
+2023-12-22,24,Autumn,période 29,Normal Day,27387.405310000002,380.6528961663325,Centre-Val de Loire
+2023-12-22,32,Autumn,période 29,Normal Day,51108.596119,439.05536862280843,Hauts-de-France
+2023-12-23,24,Winter,période 9,Week-end,27154.702966,366.2350165168378,Centre-Val de Loire
+2023-12-23,32,Winter,période 9,Week-end,50602.754045,423.4374944656875,Hauts-de-France
+2023-12-24,24,Winter,période 9,Week-end,26843.178215,356.63641374907684,Centre-Val de Loire
+2023-12-24,32,Winter,période 9,Week-end,50047.700935,415.90168048395236,Hauts-de-France
+2023-12-25,24,Winter,période 9,National Holidays,25966.328063,342.8730205387671,Centre-Val de Loire
+2023-12-25,32,Winter,période 9,National Holidays,48295.698152,401.2440294494578,Hauts-de-France
+2023-12-26,24,Winter,période 9,School Holidays,26980.390164,360.1678056543492,Centre-Val de Loire
+2023-12-26,32,Winter,période 9,School Holidays,50203.218134,421.09412975689935,Hauts-de-France
+2023-12-27,24,Winter,période 9,School Holidays,28048.470693,370.1164055130134,Centre-Val de Loire
+2023-12-27,32,Winter,période 9,School Holidays,52100.392607,430.96462731578293,Hauts-de-France
+2023-12-28,24,Winter,période 9,School Holidays,27512.128078,367.3370808155372,Centre-Val de Loire
+2023-12-28,32,Winter,période 9,School Holidays,51212.924165,426.04308807136863,Hauts-de-France
+2023-12-29,24,Winter,période 9,School Holidays,26712.021538,362.0046656014661,Centre-Val de Loire
+2023-12-29,32,Winter,période 9,School Holidays,49801.629148,420.8130922614784,Hauts-de-France
+2023-12-30,24,Winter,période 9,Week-end,26492.4781,356.6472252958834,Centre-Val de Loire
+2023-12-30,32,Winter,période 9,Week-end,49390.007029,414.2308608684404,Hauts-de-France
+2023-12-31,24,Winter,période 9,Week-end,27734.00026,362.27590824919236,Centre-Val de Loire
+2023-12-31,32,Winter,période 9,Week-end,51607.749168,420.08517460111443,Hauts-de-France
+2024-01-01,24,Winter,période 9,National Holidays,27401.645125,352.9381059213486,Centre-Val de Loire
+2024-01-01,32,Winter,période 9,National Holidays,50482.683158,412.5851507861259,Hauts-de-France
+2024-01-02,24,Winter,période 9,School Holidays,27164.960773,358.73004652879297,Centre-Val de Loire
+2024-01-02,32,Winter,période 9,School Holidays,48545.408676,419.0625544234538,Hauts-de-France
+2024-01-03,24,Winter,période 9,School Holidays,26059.66765,355.67798947615535,Centre-Val de Loire
+2024-01-03,32,Winter,période 9,School Holidays,48162.089456,423.09224724632566,Hauts-de-France
+2024-01-04,24,Winter,période 9,School Holidays,26583.638295,361.96015814587395,Centre-Val de Loire
+2024-01-04,32,Winter,période 9,School Holidays,48281.165405,423.686386322686,Hauts-de-France
+2024-01-05,24,Winter,période 9,School Holidays,27527.692782,370.73884583194064,Centre-Val de Loire
+2024-01-05,32,Winter,période 9,School Holidays,51191.842627,443.11990960906047,Hauts-de-France
+2024-01-06,24,Winter,période 9,Week-end,30569.893812,393.00531377936994,Centre-Val de Loire
+2024-01-06,32,Winter,période 9,Week-end,54166.891772,451.79256110678983,Hauts-de-France
+2024-01-07,24,Winter,période 9,Week-end,33365.004627,412.1774702697803,Centre-Val de Loire
+2024-01-07,32,Winter,période 9,Week-end,60883.810433,475.14454166190217,Hauts-de-France
+2024-01-08,24,Winter,période 9,School Holidays,38299.015862,443.45098237615537,Centre-Val de Loire
+2024-01-08,32,Winter,période 9,School Holidays,70102.786216,495.93196355135774,Hauts-de-France
+2024-01-09,24,Winter,période 9,School Holidays,41056.642159,476.27575588396877,Centre-Val de Loire
+2024-01-09,32,Winter,période 9,School Holidays,73733.697549,519.9553124016129,Hauts-de-France
+2024-01-10,24,Winter,période 30,Normal Day,41705.051748,480.69798108668436,Centre-Val de Loire
+2024-01-10,32,Winter,période 30,Normal Day,76215.90617,529.7766463601755,Hauts-de-France
+2024-01-11,24,Winter,période 30,Normal Day,40377.076568000004,472.9922729264722,Centre-Val de Loire
+2024-01-11,32,Winter,période 30,Normal Day,74224.927144,524.167294136029,Hauts-de-France
+2024-01-12,24,Winter,période 30,Normal Day,41259.793532,482.1617628017808,Centre-Val de Loire
+2024-01-12,32,Winter,période 30,Normal Day,67118.536126,493.3688008741457,Hauts-de-France
+2024-01-13,24,Winter,période 30,Week-end,43477.610978,524.4046703830211,Centre-Val de Loire
+2024-01-13,32,Winter,période 30,Week-end,66835.232482,523.3261714385742,Hauts-de-France
+2024-01-14,24,Winter,période 30,Week-end,43238.928733,513.7471356677443,Centre-Val de Loire
+2024-01-14,32,Winter,période 30,Week-end,69567.762851,520.8247018577941,Hauts-de-France
+2024-01-15,24,Winter,période 30,Normal Day,39672.66679,461.9811270065576,Centre-Val de Loire
+2024-01-15,32,Winter,période 30,Normal Day,65789.403566,477.3217269641698,Hauts-de-France
+2024-01-16,24,Winter,période 30,Normal Day,42142.103318,488.7815212566871,Centre-Val de Loire
+2024-01-16,32,Winter,période 30,Normal Day,68568.777135,501.0985743409658,Hauts-de-France
+2024-01-17,24,Winter,période 30,Normal Day,34202.775885,439.85459540623725,Centre-Val de Loire
+2024-01-17,32,Winter,période 30,Normal Day,71397.917537,541.8190951751345,Hauts-de-France
+2024-01-18,24,Winter,période 30,Normal Day,34037.435334,435.79253010298805,Centre-Val de Loire
+2024-01-18,32,Winter,période 30,Normal Day,68947.27268,524.8980616514694,Hauts-de-France
+2024-01-19,24,Winter,période 30,Normal Day,40185.545993,470.15150825996733,Centre-Val de Loire
+2024-01-19,32,Winter,période 30,Normal Day,71585.639945,517.3407423822167,Hauts-de-France
+2024-01-20,24,Winter,période 30,Week-end,42374.008947,506.6898320622303,Centre-Val de Loire
+2024-01-20,32,Winter,période 30,Week-end,75001.889173,564.2657115904992,Hauts-de-France
+2024-01-21,24,Winter,période 30,Week-end,39550.262186,470.2110198725774,Centre-Val de Loire
+2024-01-21,32,Winter,période 30,Week-end,71500.366927,534.7062454155124,Hauts-de-France
+2024-01-22,24,Winter,période 30,Normal Day,30950.496394,406.09619669051085,Centre-Val de Loire
+2024-01-22,32,Winter,période 30,Normal Day,56137.992575,457.068598103204,Hauts-de-France
+2024-01-23,24,Winter,période 30,Normal Day,29061.90648,394.6893444341521,Centre-Val de Loire
+2024-01-23,32,Winter,période 30,Normal Day,54904.869888,459.9551416879565,Hauts-de-France
+2024-01-24,24,Winter,période 30,Normal Day,24769.855741,352.5158151609552,Centre-Val de Loire
+2024-01-24,32,Winter,période 30,Normal Day,48485.364499,422.34389483014866,Hauts-de-France
+2024-01-25,24,Winter,période 30,Normal Day,23278.412556,342.0138732325143,Centre-Val de Loire
+2024-01-25,32,Winter,période 30,Normal Day,48240.481335,424.95124055188353,Hauts-de-France
+2024-01-26,24,Winter,période 30,Normal Day,24529.30606,351.2398286577339,Centre-Val de Loire
+2024-01-26,32,Winter,période 30,Normal Day,46985.929193,415.9469024203574,Hauts-de-France
+2024-01-27,24,Winter,période 30,Week-end,29930.665045,388.10974023307614,Centre-Val de Loire
+2024-01-27,32,Winter,période 30,Week-end,56212.431133,458.86465082863856,Hauts-de-France
+2024-01-28,24,Winter,période 30,Week-end,30755.468441,383.0240460957822,Centre-Val de Loire
+2024-01-28,32,Winter,période 30,Week-end,58071.789884,449.52442175688276,Hauts-de-France
+2024-01-29,24,Winter,période 30,Normal Day,27898.844646999998,366.77953709089394,Centre-Val de Loire
+2024-01-29,32,Winter,période 30,Normal Day,53138.965399,434.15331149792024,Hauts-de-France
+2024-01-30,24,Winter,période 30,Normal Day,25624.08475,355.5475614318172,Centre-Val de Loire
+2024-01-30,32,Winter,période 30,Normal Day,49349.505338,422.9440640030953,Hauts-de-France
+2024-01-31,24,Winter,période 30,Normal Day,25688.973743,354.01344860826185,Centre-Val de Loire
+2024-01-31,32,Winter,période 30,Normal Day,51041.408233,432.36646951724674,Hauts-de-France
+2024-02-01,24,Winter,période 30,Normal Day,25565.594468,356.637151755971,Centre-Val de Loire
+2024-02-01,32,Winter,période 30,Normal Day,48650.511637,423.9770091767305,Hauts-de-France
+2024-02-02,24,Winter,période 30,Normal Day,26430.289065,365.0169783845369,Centre-Val de Loire
+2024-02-02,32,Winter,période 30,Normal Day,53228.286839,446.1242766278975,Hauts-de-France
+2024-02-03,24,Winter,période 30,Week-end,27645.977968,367.91717668991294,Centre-Val de Loire
+2024-02-03,32,Winter,période 30,Week-end,48935.282308,410.82541886876913,Hauts-de-France
+2024-02-04,24,Winter,période 30,Week-end,27105.201592,352.5031554209157,Centre-Val de Loire
+2024-02-04,32,Winter,période 30,Week-end,47873.986603,391.10073512189945,Hauts-de-France
+2024-02-05,24,Winter,période 30,Normal Day,27666.64965,367.93663859903285,Centre-Val de Loire
+2024-02-05,32,Winter,période 30,Normal Day,48522.938952,408.09660515338385,Hauts-de-France
+2024-02-06,24,Winter,période 30,Normal Day,27013.699635,371.70999515710525,Centre-Val de Loire
+2024-02-06,32,Winter,période 30,Normal Day,47520.061607,411.9228308618326,Hauts-de-France
+2024-02-07,24,Winter,période 30,Normal Day,25943.281366,359.74262571613616,Centre-Val de Loire
+2024-02-07,32,Winter,période 30,Normal Day,47988.518408,422.2488744320677,Hauts-de-France
+2024-02-08,24,Winter,période 30,Normal Day,23858.309143,343.9239254644651,Centre-Val de Loire
+2024-02-08,32,Winter,période 30,Normal Day,47591.214112,425.6828958305743,Hauts-de-France
+2024-02-09,24,Winter,période 30,Normal Day,24065.102433,345.4690668492197,Centre-Val de Loire
+2024-02-09,32,Winter,période 30,Normal Day,44500.345892,404.13731528702584,Hauts-de-France
+2024-02-10,24,Winter,période 30,Week-end,26102.384689,355.08963410506,Centre-Val de Loire
+2024-02-10,32,Winter,période 30,Week-end,44981.903671,396.9085303992454,Hauts-de-France
+2024-02-11,24,Winter,période 30,Week-end,26974.581235,349.8206188656557,Centre-Val de Loire
+2024-02-11,32,Winter,période 30,Week-end,46709.380597,392.0150304058767,Hauts-de-France
+2024-02-12,24,Winter,période 30,Normal Day,27494.876542,359.9798336530492,Centre-Val de Loire
+2024-02-12,32,Winter,période 30,Normal Day,47723.005794,405.29123657730713,Hauts-de-France
+2024-02-13,24,Winter,période 30,Normal Day,28451.168372,379.111624962772,Centre-Val de Loire
+2024-02-13,32,Winter,période 30,Normal Day,51332.302589,435.0524878502171,Hauts-de-France
+2024-02-14,24,Winter,période 30,Normal Day,23689.846136,338.0373112578897,Centre-Val de Loire
+2024-02-14,32,Winter,période 30,Normal Day,46603.390862,408.03188348026305,Hauts-de-France
+2024-02-15,24,Winter,période 30,Normal Day,21465.700595,318.75148355006945,Centre-Val de Loire
+2024-02-15,32,Winter,période 30,Normal Day,40807.653786,378.5872220288262,Hauts-de-France
+2024-02-16,24,Winter,période 30,Normal Day,21480.589861,320.115221282122,Centre-Val de Loire
+2024-02-16,32,Winter,période 30,Normal Day,40565.959703,378.2949664677151,Hauts-de-France
+2024-02-17,24,Winter,période 30,Week-end,22734.207455,323.2504578978966,Centre-Val de Loire
+2024-02-17,32,Winter,période 30,Week-end,42065.870774,376.49736756165044,Hauts-de-France
+2024-02-18,24,Winter,période 30,Week-end,25313.832411,333.4824628930399,Centre-Val de Loire
+2024-02-18,32,Winter,période 30,Week-end,44757.343088,374.9856684132366,Hauts-de-France
+2024-02-19,24,Winter,période 30,Normal Day,24008.953533,332.5611968128064,Centre-Val de Loire
+2024-02-19,32,Winter,période 30,Normal Day,44818.542911,388.94502730627715,Hauts-de-France
+2024-02-20,24,Winter,période 30,Normal Day,25304.755817,350.8874224196408,Centre-Val de Loire
+2024-02-20,32,Winter,période 30,Normal Day,46782.91361,411.10120491598695,Hauts-de-France
+2024-02-21,24,Winter,période 30,Normal Day,26748.404678,362.2706978006123,Centre-Val de Loire
+2024-02-21,32,Winter,période 30,Normal Day,47785.834121,412.4610414676006,Hauts-de-France
+2024-02-22,24,Winter,période 30,Normal Day,25354.576928,354.84506361867005,Centre-Val de Loire
+2024-02-22,32,Winter,période 30,Normal Day,45736.641859,408.0650088613067,Hauts-de-France
+2024-02-23,24,Winter,période 30,Normal Day,28965.10766,384.4454302270918,Centre-Val de Loire
+2024-02-23,32,Winter,période 30,Normal Day,51522.801811,439.8849408008496,Hauts-de-France
+2024-02-24,24,Winter,période 20,Week-end,30316.216472,387.1285883484594,Centre-Val de Loire
+2024-02-24,32,Winter,période 20,Week-end,52727.776493,431.90518843740267,Hauts-de-France
+2024-02-25,24,Winter,période 20,Week-end,29383.447452,368.5655025290691,Centre-Val de Loire
+2024-02-25,32,Winter,période 20,Week-end,52019.298439,415.4198416798559,Hauts-de-France
+2024-02-26,24,Winter,période 20,Normal Day,27097.202781,347.06221696926957,Centre-Val de Loire
+2024-02-26,32,Winter,période 20,Normal Day,53162.091668,420.040336198767,Hauts-de-France
+2024-02-27,24,Winter,période 20,Normal Day,29036.850744,364.5064481224621,Centre-Val de Loire
+2024-02-27,32,Winter,période 20,Normal Day,51228.770735,408.9623943778846,Hauts-de-France
+2024-02-28,24,Winter,période 20,Normal Day,28954.695399,359.1912817623823,Centre-Val de Loire
+2024-02-28,32,Winter,période 20,Normal Day,50924.571044,403.93570707253815,Hauts-de-France
+2024-02-29,24,Winter,période 20,Normal Day,26886.416971,361.3741548857601,Centre-Val de Loire
+2024-02-29,32,Winter,période 20,Normal Day,48235.77746,411.99083588588667,Hauts-de-France
+2024-03-01,24,Winter,période 20,Normal Day,27280.123795,366.78843097701684,Centre-Val de Loire
+2024-03-01,32,Winter,période 20,Normal Day,49536.223731,422.4993944296074,Hauts-de-France
+2024-03-02,24,Winter,période 20,Week-end,27749.480355,364.1525840616964,Centre-Val de Loire
+2024-03-02,32,Winter,période 20,Week-end,50335.936566,420.7968968378694,Hauts-de-France
+2024-03-03,24,Winter,période 20,Week-end,28367.891949,359.47625893524497,Centre-Val de Loire
+2024-03-03,32,Winter,période 20,Week-end,51393.607594,416.21388410121443,Hauts-de-France
+2024-03-04,24,Winter,période 20,Normal Day,28398.596458,350.3572652373058,Centre-Val de Loire
+2024-03-04,32,Winter,période 20,Normal Day,51336.684101,392.6248473050498,Hauts-de-France
+2024-03-05,24,Winter,période 20,Normal Day,27214.122113,346.06074311912755,Centre-Val de Loire
+2024-03-05,32,Winter,période 20,Normal Day,49419.405035,395.02008290272533,Hauts-de-France
+2024-03-06,24,Winter,période 20,Normal Day,27206.541951,348.1932996310295,Centre-Val de Loire
+2024-03-06,32,Winter,période 20,Normal Day,49433.151064,396.4163752013937,Hauts-de-France
+2024-03-07,24,Winter,période 20,Normal Day,26539.370526,349.20475373506787,Centre-Val de Loire
+2024-03-07,32,Winter,période 20,Normal Day,48329.404245,394.0680457847786,Hauts-de-France
+2024-03-08,24,Winter,période 20,Normal Day,26633.477546,361.58413476066227,Centre-Val de Loire
+2024-03-08,32,Winter,période 20,Normal Day,48615.379402,413.483333810798,Hauts-de-France
+2024-03-09,24,Winter,période 20,Week-end,26655.973874,350.47762271043945,Centre-Val de Loire
+2024-03-09,32,Winter,période 20,Week-end,48700.361836,400.8531464498768,Hauts-de-France
+2024-03-10,24,Winter,période 20,Week-end,26290.142176,339.9466601832488,Centre-Val de Loire
+2024-03-10,32,Winter,période 20,Week-end,48211.056507,392.46786194889586,Hauts-de-France
+2024-03-11,24,Winter,période 31,Normal Day,25729.519815,327.9379245652361,Centre-Val de Loire
+2024-03-11,32,Winter,période 31,Normal Day,47314.072419000004,374.75442489165476,Hauts-de-France
+2024-03-12,24,Winter,période 31,Normal Day,24892.921427,338.41857805101694,Centre-Val de Loire
+2024-03-12,32,Winter,période 31,Normal Day,46035.870304000004,396.69014159228686,Hauts-de-France
+2024-03-13,24,Winter,période 31,Normal Day,22870.231221,325.2330373741605,Centre-Val de Loire
+2024-03-13,32,Winter,période 31,Normal Day,42615.631783,381.03090681678475,Hauts-de-France
+2024-03-14,24,Winter,période 31,Normal Day,21542.648118,316.04401674994364,Centre-Val de Loire
+2024-03-14,32,Winter,période 31,Normal Day,40291.008195,370.74723693176765,Hauts-de-France
+2024-03-15,24,Winter,période 31,Normal Day,20457.748702,305.1156049064203,Centre-Val de Loire
+2024-03-15,32,Winter,période 31,Normal Day,38548.409566,361.6569082310051,Hauts-de-France
+2024-03-16,24,Winter,période 31,Week-end,20440.577991,297.5482584042294,Centre-Val de Loire
+2024-03-16,32,Winter,période 31,Week-end,38651.237885,357.27342380558855,Hauts-de-France
+2024-03-17,24,Winter,période 31,Week-end,20452.563154,287.23877070905644,Centre-Val de Loire
+2024-03-17,32,Winter,période 31,Week-end,38781.643001,344.45821404360777,Hauts-de-France
+2024-03-18,24,Winter,période 31,Normal Day,19113.815261,288.23127171868697,Centre-Val de Loire
+2024-03-18,32,Winter,période 31,Normal Day,36437.616901,344.3395351926189,Hauts-de-France
+2024-03-19,24,Winter,période 31,Normal Day,18838.743029,293.31162307380043,Centre-Val de Loire
+2024-03-19,32,Winter,période 31,Normal Day,35950.451363,347.97422316686044,Hauts-de-France
+2024-03-20,24,Spring,période 31,Normal Day,18632.725414,289.243181526941,Centre-Val de Loire
+2024-03-20,32,Spring,période 31,Normal Day,35651.217281,347.17699656265836,Hauts-de-France
+2024-03-21,24,Spring,période 31,Normal Day,17846.585477,283.62072309557277,Centre-Val de Loire
+2024-03-21,32,Spring,période 31,Normal Day,34295.363893,344.5014555025325,Hauts-de-France
+2024-03-22,24,Spring,période 31,Normal Day,17822.487623,283.16345473210896,Centre-Val de Loire
+2024-03-22,32,Spring,période 31,Normal Day,34301.913962,339.8730806774168,Hauts-de-France
+2024-03-23,24,Spring,période 31,Week-end,20101.44012,297.2501443393437,Centre-Val de Loire
+2024-03-23,32,Spring,période 31,Week-end,38365.86712,355.69156922388447,Hauts-de-France
+2024-03-24,24,Spring,période 31,Week-end,22043.024132,303.3558156940268,Centre-Val de Loire
+2024-03-24,32,Spring,période 31,Week-end,41688.257049,359.0321632497259,Hauts-de-France
+2024-03-25,24,Spring,période 31,Normal Day,22556.847854,317.5841419025155,Centre-Val de Loire
+2024-03-25,32,Spring,période 31,Normal Day,42464.040191,371.5176385935107,Hauts-de-France
+2024-03-26,24,Spring,période 31,Normal Day,22773.825705,326.1094911681185,Centre-Val de Loire
+2024-03-26,32,Spring,période 31,Normal Day,42895.960255,376.530547291304,Hauts-de-France
+2024-03-27,24,Spring,période 31,Normal Day,23909.340411,334.49335279453936,Centre-Val de Loire
+2024-03-27,32,Spring,période 31,Normal Day,44863.27261,386.7081218989611,Hauts-de-France
+2024-03-28,24,Spring,période 31,Normal Day,23512.622061,335.2048823765807,Centre-Val de Loire
+2024-03-28,32,Spring,période 31,Normal Day,44097.530672,388.92715117951496,Hauts-de-France
+2024-03-29,24,Spring,période 31,Normal Day,22184.010791,319.7850109634866,Centre-Val de Loire
+2024-03-29,32,Spring,période 31,Normal Day,41741.399716,369.0831157427481,Hauts-de-France
+2024-03-30,24,Spring,période 31,Week-end,22286.031502,318.3868771673198,Centre-Val de Loire
+2024-03-30,32,Spring,période 31,Week-end,41958.205828,370.7386218767262,Hauts-de-France
+2024-03-31,24,Spring,période 31,Week-end,21038.071015,292.3035581514741,Centre-Val de Loire
+2024-03-31,32,Spring,période 31,Week-end,39622.031789,340.89589220229453,Hauts-de-France
