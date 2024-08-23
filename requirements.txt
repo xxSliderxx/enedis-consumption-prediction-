@@ -9,4 +9,4 @@ pandas
 matplotlib
 streamlit
 folium
-treamlit_folium
+streamlit_folium
