@@ -128,7 +128,7 @@ def ana():
           
                                                         """)
 
-        DF = pd.read_csv('DF.csv')
+        DF = pd.read_csv('DF.csv', compression='gzip')
         DF['Categorie'] = DF['Categorie'].replace({'Pro':'Professional','Res':'Residence','Ent':'Company'})
         
         
