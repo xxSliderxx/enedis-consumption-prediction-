@@ -509,9 +509,7 @@ def ana():
         
     st.markdown("Electricity consumption is clearly different depending on temperature. The more it's cold the more the consumption is important. Temperature is definitely an important factor of the electrical needs.")
         
-    font_title = {'family': 'sans-serif',
-                                'color':  '#114b98',
-                                'weight': 'bold'}
+    
         
     #labels = df_cvdl["season"].unique()
     df_concat = pd.read_csv('df_concat.csv')
