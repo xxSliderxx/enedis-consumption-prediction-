@@ -1,4 +1,4 @@
-limport streamlit as st
+import streamlit as st
 from eda import intro, ana, ML,ML_explain
 
 # Background
