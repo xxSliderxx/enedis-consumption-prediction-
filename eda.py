@@ -62,7 +62,7 @@ def ana():
                                 """)
 
         # Chart of total consumption
-        DF = pd.read_csv('DF.csv')
+        
         Holiday = ['période 1','période 2','période 3','période 4','période 5','période 6','période 7','période 8','période 9']
         Vacances = {'période 1':'blue','période 2':'blue','période 3':'blue','période 4':'blue','période 5':'blue','période 6':'blue',
                         'période 7':'blue','période 8':'blue','période 9':'blue','période 20':'green','période 21':'green',
@@ -72,7 +72,7 @@ def ana():
         Jour_ferie = ['2022-04-18','2022-05-01','2022-05-08','2022-05-26','2022-06-06','2022-07-14','2022-08-15','2022-11-01','2022-11-11','2022-12-25',
                           '2023-01-01','2023-04-10','2023-05-01','2023-05-08','2023-05-29','2023-07-14','2023-08-15','2023-11-01','2023-11-11','2023-12-25',
                           '2024-01-01','2024-04-01']
-        DF = pd.read_csv('DF.csv')
+        
         dg = pd.read_csv('dg.csv')
         
         
@@ -125,7 +125,10 @@ def ana():
                                 So the segment 'Professional' occurences 50% of the data in both regions.
 
                                 - Energy consumption depends on each purpose which is possible to be explained by the registered profile in the contract. We have to divide the rations into smaller portions depending on the profile in order to observe better the consumption trend of each profile category later.
-                                                           """)
+          
+                                                        """)
+
+        DF = pd.read_csv('DF.csv')
         DF['Categorie'] = DF['Categorie'].replace({'Pro':'Professional','Res':'Residence','Ent':'Company'})
         
         
