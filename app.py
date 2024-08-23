@@ -1,5 +1,5 @@
 import streamlit as st
-from eda import intro, ana, ML,ML_explain
+from eda import intro, ML,ML_explain
 
 # Background
 page_bg_img = f"""
