@@ -1,4 +1,4 @@
-import streamlit as st
+limport streamlit as st
 from eda import intro, ana, ML,ML_explain
 
 # Background
@@ -37,7 +37,7 @@ change_font = '<p style="font-family:Courier; color:Blue; font-size: 20px;">In c
 
 def main():
          
-    menu = ["Introduction", "Consumption Analysis",'Prédiction', "Consumption Prediction"]
+    menu = ["Introduction", "Consumption Analysis",'Machine Learning', "Consumption Prediction"]
 
     choice = st.sidebar.selectbox("MENU", menu)
 
@@ -50,7 +50,7 @@ def main():
         
         ML()
         
-    if choice == 'Prédiction':
+    if choice == 'Machine Learning':
         ML_explain()
 
 
