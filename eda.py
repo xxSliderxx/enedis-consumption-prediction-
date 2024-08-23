@@ -653,24 +653,11 @@ def ana():
     for i in ax.containers:
         ax.bar_label(i,)
     st.pyplot(fig)
- 
-
-
- 
-
-
-
-    
-    
-    
-    
-    
-    
     
     
 
 def intro():
-        st.title(":purple[Electricity Consumption Prediction System]")
+        st.title("Electricity Consumption Prediction System")
         st.header("Introduction of the project, location of analysis and datasets", divider='rainbow')
 
         st.markdown("""
